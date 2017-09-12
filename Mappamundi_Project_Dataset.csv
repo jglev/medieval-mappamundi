@@ -1,0 +1,946 @@
+Map Name,Psalter_Pictorial_Map_Normalized_Reading,Psalter_Pictorial_Map_Diplomatic_Reading,Psalter_List_Map_Normalized_Reading,Psalter_List_Map_Diplomatic_Reading,Munich_Isidore_Map_Normalized_Reading (Munich Clm 10058 f. 154v),Munich_Isidore_Map_Diplomatic_Reading (Munich Clm 10058 f. 154v),Descriptio_HSV_Map_Normalized_Reading,Descriptio_HSV_Map_Diplomatic_Reading_Index,Lambert_de_Saint-Omer_ Map(s)_Normalized_Reading,Lambert_de_Saint-Omer_ Map(s)_Diplomatic_Reading,Cotton_Map_Normalized_Reading,Cotton_Map_Diplomatic_Reading,,BL_Royal_14.C_IX_Map_Normalized_Reading,BL_Royal_14.C_IX_Map__Diplomatic_Reading,,"Chronicon_HSV_Map_Normalized_Reading_Paris BN 150009,",Chronicon_HSV_Map_Diplomatic_Reading
+Places,Albania inferior,Albania Inferior,India,India,Subsolanus v.,subsolanus,abarim m.,Abarim,Hispania,Hispania,Verona,Verona,,cartago in africa,cartago,,asia,Asia
+,Amazonia r.,Amazones,Parthia r.,Parthia,Eurus v.,eurus,abidos,Abidos,Hesperia r.,Hesperia,Islandia,Island,,antipedes,Antipedes,,europa,Europa
+,Albania superior,Albania Superior,Media r.,Media,Euroauster v.,euroauster,Abricatina,Abricatina,Lusitania,Lusitania,philistea,Philistea,,apulia,apulia,,africa,Affrica
+,Armenia,Armenia ,Africa,Affrica,Auster v.,auster,accon,Accaron,Galicia,Gallicia,nineveh,Ninive,,gens istius insule,gens istius insule,,india,India
+,Persia,Persida,Persia,Persia,Libonothus v.,austroafricus qui et libonothus,actia,Accia,Terracona c.,Terracona,eudemon,Eudemon,,britannia minor,britannia minor,,aracusia,Aracusia
+,Hyrcania,Hircania,Mesopotamia,Mesopotamia,Austroafricus v.,austroafricus qui et libonothus,achaia,Achaia,Barcinona,Barcinona,luna,Luna,,amazones g.,amasones,,parthia r.,parthia
+,Coromarces r.,Regio coro,Chaldea,Caldea,Africus v.,africus ,acrocerauni m.,Acrocerauni,Hiberus fl.,Yberus,aracusia,Aracusia,,atlas m.,mons atlas,,assiria,assiria
+,Lachis,Lachis,Arabia,Arabia,Chorus v.,chorus,adanum i.,Adamantus,Pirenei m.,Mons piereneus,macedonia,Macedonia,,francia,francia,,persia,persis
+,Antiochia,Antiochia,Siria,Syria,boreus v.,aquilo qui et boreus,adrianopolis,Adrianopolis,Gallia,Gallia,india,India,,agrisus v.,agrisus,,indus fl.,indum
+,Accon,Arcaron,Judea,Judea,Aquilo v.,aquilo qui et boreus,adriaticus s.,Adriaticum,Aquitania,Aquitania,salerna,Salerna,,persepolis,civitas persipolis,,tigris fl.,tigrim
+,Cesarea in Palestine,Cesarea Palestine,Galilea,Galilea,Wulturnus v.,uulturnus,africa,Africa,Narbona c.,Bracata/Narbona,Suthbryttas,Suthbryttas,,wallia,wallia,,mesopotamia,Mesopotamia
+,Chorazin,Corozaim,Samaria r.,Samaria,Zephirus v.,favonius qui et zephirus,africa catharginensis,Africa Carthaginensis,Wasconia,Gasconia,Bethlehem,Betleem,,anglia,anglia,,chaldea,caldea
+,Bethsaida,Betheida,Palestina,Palestina,Favonius v.,favonius qui et zephirus,africa minor,Africa Minor,Burgundia,Burgundia,Antiochia,Antiochia,,capadocia r.,capadocia,,arabia,arabia
+,Tiberias,Thiberiadis,Frigia,Frigia,Sericus mare,Sericus occeanus,africa numidiana,Africa Numidiana,Neustria,Neustria,sirtes,Sirtes,,thasos?,tyrus,,euphrates fl.,eufratem
+,Siria,Syria,Nicomedia,Nichomedia,Scyticus o.,Sciticus occeanus,aginno,Aginno,Flandria,Flandria,ravenna,Ravenna,,membriona,menbriona insula,,siria,syria
+,Nineveh,Ninive,Albania,Albania,Eous o.,Eous occeanus ,aglos,Aglos,Morini,Morini,armenia,Armenia,,dalmatia,dalmacia,,phenicia,phenicia
+,Licia,Licia,Cyprus,Cypro Insula,Caspium mare,mare Caspium,agris,Agris,Rodanus fl.,Rodanus,dalmatia,Dalmatia,,geloni,gelonii,,palestina,palestina
+,Parthan in albania c.,Spartan,Armenia,Armenia,Taprobana,Taprobana insula plena feris et auibus,airoth,Airoth,Renus fl.,Renus,persia,Persidia,,pamphilia r.,pamphilia,,judea,iudeam
+,Cyropolis,Ciropolis,Creta,Creta Insula,Taprobana,Taprobana insula habens ciuitates decem,alania,Alania,Italia,Italia,taprobana,Tabrobanen,,persia,persida,,galilea,galileam
+,Carras,Carnis,Licaonia,Licaonia,Gaulonum i.,Gaulon[a],alba,alba,Tuscia,Tuscia,constantinopolis,Constantinopolim,,alania,alania,,mediterraneum mare,mare mediterraneum
+,Safris,Saphiri,Sicilia,Sicilia,Gorgades i.,Gorgodes,albani,Albani,Emilia,Emilia,gad,Gad,,caspium mare,mare caspium,,scythia,scithia
+,Sarina?,Sarina?,Capadocia r.,Capadocia ,Hesperidum i.,Esperidum insule,albania,Albania ,Umbria,Ymbria,flumen,Flumen,,numidia,numidia,,caspium mare,mari caspio
+,Jazaron,Iazaron,Scythia superiore,Sithia Superiore,Fortunate,Fortunate insule,albania superior,Albania superior,Sabinia,Sabinia,Athena,Athenas,,alemannia,alamania,,euxinum pontum,euxinum pontum
+,Nisibi,Nisapi,Scythia inferiore,Sithia Inferiore,Hibernia,Hibernia,albania inferior,Albania inferior,Campania,Campania,Cantia?,Cantia?,,perisus v.,perisus,,tanais fl.,fluvium tanaim
+,Polibota,Pabibora,Hyrcania,Hyrcania,Scotia,Scotia,albanicus o.,Albanicus,Apulia,Apulia,Effraim,Effraim,,neapolis,neapolis,,amazonia r.,amazonia
+,Capadocia c.,Capadocia,Jazaron,Thazaron ,Thanatos,Tanatos,albula,Albula,Grecia magna,Magna Grecia,pannonia,Pannonia,,westfalia,wesfalia,,albania,albania
+,Calcedonia c.,Calcidonia,Aracusia,Aracusa ,Britannia maior,Anglia insua (sic) que et Britannia maior,alemannia,Alemannia,Venetia,Venecia,neronorroen,Neronorroen,,liguricus s.,ligusticus sinus,,hyrcania,hirchania
+,Troia,Troia,Meda,Meda,Anglia,Anglia insua (sic) que et Britannia maior,are alexandri,Alexandri Are,Histria,Histria,siria,Siria,,cirene,cirene,,bactria r.,bactria
+,Persepolis,Peliopolis,Thesia,Thesia,Tile,Tile insula,castra alexandri,Alexandri Castra,Roma,Roma,evilath,Evilath,,sestos c.,cestos insula,,iberia,hyberia
+,Persepolis,Pesiopolis,Persepolis,Persepolis,Gog et Magog,Gog et Magog,columpne alexandri,Alexandri Columpne,Capua,Capua,Chaldea,Chaldea,,corsica,maior corsica,,armenia,armenia
+,Jericho,Iericho,Edessa,Edessa,Tyle,Tilos insula,alexandria in egyptus c.,Alexandria,Lavinia,Lavinia,Caucasus m.?,Mons,,trachias v.,trachias,,capadocia r.,cappadocia
+,Bethlehem,Belehem,Carras,Carra,Crise,Crise insula,alpes,Alpes,Jovis m.,Mons Iovis,sclavi g.,Sclavi,,galilea,galile,,colchos,colchos
+,Jerusalem,Ierusalem,Philadelphia,Philadelphia,Argire,Argire insula,alpes gothice,Alpes Gothice,Achaia,Achaia,turchi,Turchi,,babilon c.,babilonia,,asia minor,asia minor
+,Azotus,Azotus,Antiochia,Antioch ,Ferrea,Ferrea insula,amana,Amana,Arcadia,Archadia,bithynia,Bithinia,,babilonia r.,babilonia,,cilicia,cilicia
+,Elam,Elam,Jerusalem,Jerusalem,Stridonis i.,Stridonia,amandros,Amandros,Baioaria,Boioaria,tracia r.,Tracia,,libani m.,mons libani,,rubrum mare,mare rubrum
+,Theodosipolis,Theodosopolis,Nazareth,Nazaret,Erea,Erea,amazonia r.,Amazones,Dalmatia,Dalmacia,mauritania,Mauritania,,ligeris fl.,fluvius ligerus,,orientalis o.,occeano orientali
+,Asia maior,Asya Maior,Sagasta,Sagasta,Gorgoneos,Gorgoneos insula,ambianis,Ambianis,Dardania,Dardania,moabite,Moabite,,boreus v.,boreas,,australis o.,occeanum australem
+,Asia minor,Asya Minor,Ascalon,Ascalon,Cyprus,Cyprus,ancona,Ancona,Grecia,Grecia,morenwergas,Morenwergas,,provincia r.,provincia,,ethiopia,ethiopia
+,Octogora c.,Octogora,Troia,"Ilium, id est Troia",Cimericum mare,Cimericum mare,andegavis c.,Andegavis,Macedonia,Macedonia,lucca,Luca,,genolamides,genolamides,,ethiope m.,montibus ethiopicis
+,Hermus fl.,Fluvius Hermes,Ilium,"Ilium, id est Troia",Euxinum mare,Eusinum mare,anglia,Anglia,Magnesia,Magnesia,isauria,Issauria,,tigris fl.,tigris,,occidentalis o.,occeanum occidentale
+,Cintilis fl.,Fluvius Cintilis,Bithynia,Bithinia,Propontis mare,Propontis,ansaga fl.,Ansaga,Moesia,Mesia,Jerusalem,Hierusalem,,euphrates fl.,eufrates,,egyptus superior,egyptus superior
+,Riphei m.,Mons Riphei,Parthan in albania c.,Spartum,Hellespontus,Ellespontus,antiochia,Antiochia,Noricus,Norica,roma,Roma,,amazonia r.,amasones,,egyptus d.,deserta egypti
+,Oscobares m.,Mons  Orcatoten,Paphos,Paphus,Bosphorus,Bosphorus,antopolis,Antopolis,Pannonia,Pannonia,capadocia r.,Cappadocia,,bragmani g.,bragmanni,,libia superior,libia superior
+,Libani m.,Mons Libani,Calcedonia c.,Calcedonia,Cyprium mare,Cyprium mare,anthropophagi,Antropofagi,Retia,Recia,britannia,Brittania,,ethiopia occidentalis,ethiopia occidentalis,,egyptus inferior,egyptus inferior
+,Excelsus m.,Mons Excelsus,creta,Creta insula,Asiaticus s.,Asiaticus sinus,apallina i.,Apallina,Thessalia,Thessalia,amonite,Amonite,,madian,madian,,nathabres,ethiopes nadaberes
+,Ganges fl.,Ganges,Hecatompolis,Centapolis,Cilicus s.,Cilicus sinus,apamia,Apamia,Tracia r.,Tracia,armachus,Archmacanum,,gaditanum fretum,gaditanum fretum,,garamantes,garamantes
+,Syon m.,Mons Syon,Iconium c.?,Niacetum,Messicus s.,Messicus sinus,apollonia c.,Apollonia,Athena,Athenis,wintonia,Wintonia,,flandria,flandria,,libia cirenensis,lybia cirenensis
+,Dan fl.,Fluvius Dan,Syracuse,Syracusana,Macedonicus s.,Macedonicus sinus,appennini m.,Appennini,Maronea,Maronea,ephesus,Ephesus,,trogodite,trogodite,,tripolitana,tripolitana
+,Jor fl.,Ior,Elam,Elam,Corinthius s.,Chorinthius sinus,apulia,Apulia,Danubius fl.,Danubius,attica,Attica,,gallicus s.,sinus gallicus,,mauritania sitifensis,sitifensis
+,Torrens Cison,Torrens Cedron,Asia maior,Asia Maior,Illiricus s.,Illiricus sinus,aquileia,Aquileia,Alemannia,Alemannia,scridefinnas,Scridefinnas,,gloucester,gloucester,,zeugis r.,zeugis
+,Stannum,Stannum,Asia minor,Asia Minor,Liburnicus s.,Liburnicus sinus,aquilonalis o.,Aquilonalis,Dacia,Dacia,mesopotamia,Mesopotamia,,aquilo v.,aquilo,,getulia,getulia
+,Gennesar l.,Stannum Genesar,Susa,Susa,Venetia,Venetia,aquis,Aquis,Gothia,Gothia,hebron,Ebron,,gades,gades,,numidia,numidia
+,Mortuum mare,Mare Mortuum,Sebastea in palestina,Sebaste,Adriaticum mare,Adriaticum,aquitania,Aquitania,Germania,Germania,jericho,Hiericho,,aurea i.,aurea insula,,tingitania,tingitania
+,Euphrates fl.,Euphrates,Archimedon,Archademon,Egyptium mare,Egyptium mare,ara,Ara,Hunorum g.,Huni,scythia,Scithia,,nicomedia,nicomedia,,mauritania,mauritania
+,Tigris fl.,Tigris,Susis,Dusis,Mirteum mare,Mirteum,arab,Arab,Norwegia,Norwegia,Bulgari g.,Balgarii,,persicus s.,sinus persicus,,sirtes,syrtes
+,Atlas m.,Mons Athlans,Nineveh,Nineve,Aegeum mare,Egeum,arabia,Arabia,Lazorum g.,Lazorum Gens,cilicia,Cilicia,,ethiopia orientalis,ethiopia orientalis,,athlanticum o.,occeanum athlanticum
+,Gorgades i.,Gorgades,Babilonia c.,Babilonia magna,Ionium mare,Ionium,eudemon,Arabia Eudemon,Provincia r.,Provincia,londonia,Lundona,,italia,ytalia,,numidia,numidiam
+,Are Liberi,Are Liberi et Columne Erculis,Damascus,Damascus,Carpatium mare,Carpatum,arach,Arach,Scythia,Sithia,dacia,Daria,,amonite,amon,,africa d.,desertis affrice
+,Columpne Herculis,Are Liberi et Columne Erculis,Bethlehem,Bethleem,Pelusium s.,Pelusium,aracusia,Aracusia,Hippodes,Ypopodes,commagena,Commagena,,burgundia,burgundia,,daci g.,daci
+,Are Alexandri,Are Alexandri,Capernaum,Capharneum,Creticum mare,Creticum,araris fl.,Arar,Hyrcania,Hircania,brigantia,Brigantia,,scythia inferiore,sithia inferior,,gothi g.,gothi
+,Arbor Solis,Arbor Solis,Tarsus,Tharsis,Gallicum mare,Gallicum mare,ararat m.,Ararath,Panotii,Pannothi,mesina,Mesina,,wulturnus v.,wulturnus,,alani g.,alani
+,Arbor Lune,Arbor Lune,Azotus,Azotus,Liguricus s.,Liguricus sinus,arausica,Arausica,Taurus m.,Mons Taurus,troia,Troia,,oxonium,oxonium,,gepidi g.,gepidi
+,Turris babilon?,Turris,Egyptus,Egypto,Gaditanum fretum,Gaditanum fretum,araxis fl.,Araxis,Caucasus m.,Mons Caucasus,hiberia,Hiberia,,apris i.,apris,,rugi g.,rugi
+,Puteus Josep,Puteus Josep,Alexandria in egyptus c.,Alexandria,Gades,Gades,archad,Archad,Bactria r.,Bactria,dardania,Dardania,,damascus,damascus,,bulgari g.,bulgari
+,Arumphei,Arumphei,Sithe,Glath,Ebusus i.,Ebosus insula,arcadia,Archadia,Margiana,Margiana,tyle,Tylen,,boemia,boemia,,hunorum g.,huni vel hungari
+,Albatia,Abatiam,Memphis,Memphis,Sardinia,Sardinia,archimedon,Archimedon,Tanais fl.,Fl. Tanais,bizacena,Bizacene,,patroticanes,patroticanes,,hungari g. ,huni vel hungari
+,Arca Noe,Arca Noe,Ethiopia,Etheopia,Sicilia,Sicilia,archipoleta lacus,Archipoleta,octogora i.,Octogorra,cinocephales,Cinocephales,,fortunate,insule fortunate,,nores g.,nores
+,Larissa,Larissa,Nathabres,Nadaber,Corcyra,Corcira,Ardennes,Ardenna,armenia,Armenia,pavia,Pavia,,wandalia r.,wandaly,,sclavi g.,sclavi
+,Constantinopolis,Constantinopolis,Cilicia,Cilicia,Stripodes,Stripodes,Arelatum,Arelatum,bithynia,Bithinia,galilea,Galilea,,arcadia,arcadia,,germania,germania
+,Galatia,Galatia,Ephesus,Ephesiss,Liparis i.,Lyparis,argentora,Argentora,capadocia r.,Cappadocia,media r.,Media,,femine,femine,,alemannia,alemannia
+,Aquitania,Equitania,Catania,Cathinia,Fenicus i.,Fenicus,argus,Argus,caria,Caria,boreus fl.,Boream,,picardia,picardia,,gallia,gallia
+,Normannia,Normannia,Capadocia c.,Capadocia,Strongile,Strongile,Argire,Argyria,frigia,Frigia,isachar,Isachar,,ioppe,ioppe,,aquitania,aquitania
+,Burgundia,Burgundia,Abidos,Abidus,Festia,Festia,Arimaspi,Arimaspi,galatia,Galacia,sleswic,Sleswic,,sirtes minores,cirtes minores,,hispania,hispania
+,Lugdunum,Lugdunensis,Gangara,Gangaria,Chios,Chio,Arumphei,Arimfei,Lama,Lama,babilon c.,Babilonia,,fenicea,fenicea,,hellespontus,ellesponto
+,Hispania,Hisspania,Padaum c.,Padaum,Samos i.,Samos,Ariobaranes m.,Ariobaranes,Licia,Licia,arabia,Arabia,,islandia,yslandie,,moesia,mysia
+,Scythia,Citia,Europa,Europa,Paros,Paros,Armenia,Armenia,Lix c.,Lyc',ruben,Ruben,,histria,histria,,histria,istria
+,Sithe,Citha,Grecia,Grecia,Terasia,Terasia,Armenia inferior,Armenia inferior,Paflam g.,Paflag,asher,Asser,,favonius v.,favonius,,tracia r.,tracia
+,Sarmatica r.,Sarmatica,Tracia r.,Tracia,Calipso i.,Calipso,armenia superior,Armenia superior,pamphilia r.,Pamphilia,alexandria in egyptus c.,Alexandria,,mesopotamia,mespotanea,,macedonia,macedonia
+,Saxonia,Saxonia,Boeotia,Boetia,Canopus i.,Canopia,arsinoe,Arsinoe,Pontica,Pontica,hibernia,Hibernia,,germania,germania,,arcadia,archadia
+,Grecia,Grecia,Achaia,Achaia,Rodus,Rodus,artobatitis,Artabaite,Teutonica,Teutuna,histria,Histria,,aradia i.,aradia insula,,hellada,ellada
+,Achaia,Adchaia,Dardania,Dardania,Choos,Choos,avernia r.,Arverni,troia,Troia,taurus m.,Taurini Montes,,hermifrodites,hermifrodites,,thessalia,tessalia
+,Norwegia,Norwegia,Dalmatia,Dalmatia,Pathmos,Pathmos,avernis c.,Arvernus,saxonia,Saxonia,taurus m.,Mons Taurus,,libia cirenensis,libia cirensis,,achaia,achaia
+,Ruscia,Ruscite,Lacedemonia r.,Lacedomonia,Colchos i.,colchos,ascalon,Ascalon,scanzia,Scanzia,orcades i.,Orcades Insula,,nivaria i.,nibaria insula,,dalmaticus s.,sinu dalmatico
+,Slavenia occidentalis,Sclaveni Occidentalis,Thessalia,Thessalia,Cyprus,Cyprus,asia,Asia,sclavi g.,Sclavi,phison,Fison Flumen,,adriaticum mare,mare adriticum,,alpes,alpes
+,Hyperborea g.,Iperboria,Thessalia minor,Thessalia Minor,Creta,Creta insula,asia maior,Asia maior,suevia,Suevia,leones,Leones,,ferrea,ferrea insula,,campania,campania
+,Britannia minor,Bri[ttany],Italia,Ytalia,Ganges fl.,Ganges fl.,asia minor,Asia minor,Wandalia r.,Wandali,colchorum p.,Colchorum Provincia,,tyrus,tyrus,,apulia,appulia
+,Hungaria,Hungaria,Apulia,Apulia,Indus fl.,fl. Indus,asiaticum mare,Asiaticum,cilicia,Cilicia,cartago in africa,Cartago Magna,,tuscia,truscia,,tuscia,tuscia
+,Macedonia,Macedonia,Campania,Campania,Tigris fl.,fl. Tigris,aspides,Aspides,siria,Siria,gog et magog,Gog et Magog,,hyperborea g.,gens yporborea,,liguria,liguria
+,Dalmatia,Dalmatia,Galicia,Galecia,Hydaspis fl.,fl. Idaspis,assiria,Assyria,phenicia,Phenicia,getulia,Getule,,colax i.,colax,,italia,italia qui est latium
+,Sicilia,Sisilia,Hispania,Hyspania,Araris fl.,fl. Arbis,astrixis m.,Astrixus,palestina,Palestina,armenie m.,Montes Armenie,,baleares s.,sinus baliaris,,latium,italia qui est latium
+,Creta,Creta,Wasconia,Wasconia,Euphrates fl.,Fl. Eurfrates,athandros,Athandros,galilea,Galilea,dimidia tribus Manasse,Dimidia tribus Manase,,ethiopia i.,ethiopia insula,,umbria,umbria
+,Calipso i.,Calipso,Aquitania,Aquitania,Euxis fl.,Fl. Euxis,athena,Athene,judea,Iudea,ethiope d.,Ethiopica Deserta,,moab,moab,,tirenus s.,tirrenum sinum
+,Mare,Mare,Pictavia r.,Picatuia,Jordanis fl.,Iordanis,atlas m.,Athlas m.,philistea,Philistea,asia minor,Asia Minor,,garamantes,garamantes,,pirenei m.,montes pireneos
+,Barcinona,Barcinona,Neustria,Neustria,Araxis fl.,fl. Araxis,atrebatum,Atrebatum,idumea,Ydumea,decusa,Decusa Civitas,,idumea,ydimea,,alpes gothice,alpes cotia
+,Terracona i.,Teracona,Francia,Francia,Boreus fl.,fl. Boreus,attica,Attica,arabia,Arabia,grifes,Griphorum gens,,cornubia,cornubia,,appennini m.,montem appenninum
+,Parisius,Parisius,Alemannia,Allemannia,Tanais fl.,fl. Tanais,avenna,Avenna,saba ethiopia,Saba Ethiopie,hesperus m.,Mons Isperus,,troga,troga,,longobardia,longobardia
+,Bolonia ,Bolonia ,Saxonia,Saxonia,Caligardamana m.,Caligardamana promontorium,augusta,Augusta,Moab Og. Basan,Moab Og. Basan,Barcinona?,Barcimina Civitas?,,jericho,ierico,,valeria,valeria
+,Colonia,Colonia,Dacia,Dacia,Maleus m.,mons Maleus,agustudunus,Agustudunus,Thalassa,Thalassar,libia ethiopes,Libia Ethiopum,,jerusalem,ierusalem,,caligardamana m.,caligardamara
+,Roma,Roma,Suevia,Sucia,Taurus m.,mons Taurus,aulon cilicus,Aulon Cilicus,mesopotamia,Mesopotamia,danubius fl.,Danubius Fluvius,,wigorna,wigorna,,samara m.,samara
+,Saale,Ala,Gothia,Gotia,Libani m.,mons Libanus,aulona,Aulona,babilonia r.,Babilonia,calearsem lacus,Lacus Calearsem,,taurus m.,mons Taurus,,scythie m.,montes scythie
+,Phison,Phison,Bulgaria,Bulgaria,Sina m.,mons Synai,aureus m.,Aurei,chaldea,Chaldea,Eraclea,Aniclea,,campania,campania,,immatius m.,immatius
+,Danubius fl.,Danubius,Wandalia r.,Wandalia,Ararat m.,Ararath montes Armenie,aurelianis,Aurelianis,aracusia,Aracusia,malva,Fluvius Malva,,londonia,londonium,,caucasus m.,caucasus
+,Volga fl.,Olcus ,Germania,Germania,Caucasus m.,mons Caucasus,auseium,Auseium,assiria,Assiria,gentes XLIII,Gentes XL III,,libia,libia,,parapanisades m.,parapanisades
+,Suevus m.,Mons Suevus,Pannonia,Pannonia,Acrocerauni m.,Acrocerauni,australis o.,Australis,parthia r.,Parthia,pentapolis,Pentapolis,,saxonia,saxonia,,taurus m.,taurus
+,Hibernia,Ibernia,Moesia,Messia,Ariobaranes m.,Ariobarzanes,austria,Austria,media r.,Media,ethiopes g.,Ethiopes,,campes i.,campes insula,,oscobares m.,oscobares
+,Britannia,Britannia,Gallia Belgica,Gallia Bellica,Memarmoli m.,Memarmoli,autisiodorum,Authisiodorus,persia,Persida,ypanis fl.,Flumen Ypanis,,auster,auster,,parthau m.,partau
+,Cornubia,Cornubia,Britannia,Britannia Maior,Oscobares m.,Oscobares,axona,Axona,Carsinia,Carsinia,egyptus superior,Egiptus Superior,,turringia,turringia,,memarmoli m.,memarmoli
+,Wallia,Walni,Belgis c.,Ciuitas Belgis,Timavus m.,Timauus,aves,Aves fulgore perspicue,ophir,Ofir,gangines ethiopes,Gangines Ethiopes,,norwegia,nortwegia,,ariobaranes m.,ariobarranes
+,Scotia,Scocia,Hibernia,Hybernia,Caspie p.,Porte Caspie,azotus,Azotus,india,India,VII montes,VII Montes,,tracia r.,thrace,,acrocerauni m.,acroceraunus
+,Nathabres,Mathabres,Scotia,Scotia,Bactria c.,Bactriani,Babilon c.,Babilon,egyptus superior,Superior Egyptus,nilus,Flumen Nilus,,riphei m.,montes riphei,,parchoatras m.,parchoatra
+,Zeugis r.,Zeugis,Norwegia,Norwegia,India,India que finem facit,babilonia r.,Babilonia,egyptus inferior,Egiptus inferior,egyptus inferior,Egiptus Interior,,wintland,witland,,borea,borea
+,Getulia,Getulia,Libia,Libia,Cathmorum,Cathmorum gens optima,bactria r.,Bactria,alexandria in egyptus c.,Alexandria,Cumri?_Camri?,Cumri_Camri?,,chadea,caldea,,riphei m.,riphei montes
+,Ethiopia,Ethiopia,Cirene,Cirene,Enoch,c. Enoch,bactria c.,Bactriani,babilon c.,Babilon,neptalim,Neptalim,,ciophegi,ciophegi,,ararat m.,arath
+,Egyptus,Egyptus,Ethiopia ulterior,Ethiopia ulteriore,Columpne Alexandri,columpne Alexandri,Bactrus fl.,Bactrus,meroe i.,Meroen,Nilus immergit,Hic arenis Nilus immergitur,,circius v.,circius,,libani m.,libanus
+,Alexandria r.,Prov. Lexandria,Saba,Saba,Nisa,c. Nisan,bagrada fl.,Bagrada,garamantes,Provinica Garamantum,climax m.,Mons Clinax,,deram,deram,,arabia,arabia
+,Geon,Geon,Zeugis r.,Zeugi,Polibota,c. Palibotra,Baioaria,Baioaria,sirtes maiores,Sirtes maiores,atlas m.,Mons Athalantis,,babel,babel,,niseus m.,niseus
+,Mauritania,Mauritania,Cartago In africa,Kartago,Heriforum,c. Eriforum,baiogas c.,Baiogas,cirene,Cyrenaica,meotides paludes,Meotides Paludes,,estalatine,estalatine,,arabica d.,deserto arabie
+,Damietta,Damiete,Numidia,Numidia,Carra,c. Carra,baleares,Baleares,libia,Lybia,tanais fl.,Tanae Flumen,,syon m.,mons syon,,fasga m.,mons phasga
+,Saltabri,Saltabri,Hippo c.,Ippone,Nineveh,c. Niniue,balearicum m.,Balearicum,getulia,Getulia,libia ethiopes,Libia Aethiopum,,parisius,parisius,,scorpion m.,mons scorpion
+,Pelusium c.,Pelusium,Getulia,Getulia,Ctesiphon,c. Ectesifon,Maiorca,Balearis maior,occidentalis o.,Oceanus occidentalis,sina m.,Mons Sina,,libia libia v.,libia libia,,sina m.,mons syna
+,Daphnai,Tapnis,Tingitania,Tingitanea,Archimedon,c. Archimedon,Minorca,Balearis minor,septentrion o.,Oceanus spetentiron,libia cirenensis,Libia Cirinaria,,ascalon,ascalon,,hor m.,mons hor
+,Alexandria in egyptus c.,Alexandria,Tingis,Tingis,Edessa,c. Edessa,bar,Bar,scyticus o.,Occeanus sciticus,hesperia c.,Hisperidum,,lincolina,lincolina,,abarim m.,mons abarim
+,Memphis,Memphis,Mauritania,Mauritania,Babilon c.,c. Babilon,barcinona,Bacinola,orientalis o.,Occeanus orientalis,tribus zabulon,Tribus Zabulon,,scotia,scocia,,idumea,idumea
+,Babilonia r.,Babilonia,Cesarea in Palestine,Cesarea,Adrianopolis,c. Adrianopolis,basidim,Basidim,euxinus pontus,Euxinus Pontus,riphei m.,Montes Ripam,,wasconia,vasconia,,seyr m.,mons seyr
+,Heliopolis,Oliopolim,Ethiopia occidentalis,Ethiopia Occidentalis,Arca Noe,archa Noe,basilea c.,Basilia,meotides mare,Mare Meotis,meroe i.,Meroen Insula,,pharici,farici,,judea,iudea
+,Phison,Phison,Gades,Gades,Seleucia in siria,c. Seleucia,basilicus,Basiliscus,tyle,Thyle,danaper fl.,Danaper Flumen,,labro prominente g.,gens labro prominente,,hermon m.,mons hermon
+,Garema,Garema,Atlas m.,Mons Athlas,Lauditia c.,c. Lauditia,batavia,Batavi,Hiberus i.,Hiberus,dara fons,Fons Dara,,isauria? licia?,provincia ysauriea? Lycia?,,carmelus m.,carmelus
+,Cartago in africa,Cartago,Ethiopia orientalis,Ethiopia Orienatalis,Antiochia,Antiochia,berenice p.,Besime portus,hibernia,Hybernia,Zeugis r.,Zugis regio,,scythia superiore,sithia superior,,gelboe m.,mons gelboe
+,Nilus,Nilus,Roma,Roma,Temiscerii campi,Temiscerii campi,belvagus,Belvagus,anglia,Anglia,pentapolis,Pentapolis,,franconia,franconia,,thessalia,thessalia
+,Meroe,Meroe,Burdigala,Burdeles,Decusa,c. Decusa,beneventum,Beneventum,scotia,Scocia,arca noe,Arca Noe,,mauretania superiore,mauritania superior,,olympus m.,olympus
+,Monasterium Sancti Petri,Monasterium Sancti Petri,Londonia,Londonia,Cesarea Philippi,c. Cesarea Philippi,berenice c.,Berenice,india ultima,India ultima,fasga m.,Mons Fasga,,euroauster v.,euro auster,,pindus m.,pindus
+,Horrea Josep,Orrea Iosep,Cantuaria,Cantuaria,Nazareth,c. Nazareth,beroe,Beroe,phenix,Phenix,gaulolum g.,Gentes Gaulolum,,meotides paludes,meotides palus,,ossa m.,ossa
+,Berenice c.,Beronice,Dublina,Dublina,Capernaum,c. Capharnaum,bethania,Bethania,africa,Affrica,tribus dan,Tribus Dan,,transitus hebreorum,transistus ebreorum,,focida,focida
+,Terra arenes et sterilis,Terra arenes et sterilis,Armachus,Armachus,Nicomedia,c. Nichomedia,bethel,Bethel,zeugis r.,Zeugetana,tarsus,Tharso Ciliciae,,arabia,arabia,,parnassus m.,parnassus
+,Are Philenorum,Are Philonorum,Sancti Andree,Sancti Andree,Tyrus,c. Tyrus,bethlehem,Bethleem,bizantium,Bysancea,neptalim,Neptalim,,psambari,prosumbari,,citherus m.,citherus
+,Columpne Herculis,Columpne Herculis,,,Ioppe,c. Ioppe,bethoron,Bethoron,numidia,Numidia,salinarus lacus,Lacus Salinaruus,,euxinum mare,mare eusinum,,helicon m.,elicomus
+,Transitus hebreorum,[Transitus Israelis],,,Jerusalem,c. Ierusalem,bethsaida,Bethsaida,mauritania cesariensis,Mauritania cesariensis,super ardens m.,Mons Super Ardens,,nothus v.,nothus,,euboea,euboea
+,Pirenei m.,Mons Pireneus,,,Bethlehem,c. Bethleem,baetica,Betica,mauritania tingitana,Mauritania tingitana,aureus m.,Mons Aureus,,eliothes v.,eliothes,,parchenius m.,parchenius
+,Rubrum mare,[Mare Rubrum],,,Jericho,Iericho,baetis fl.,Betis,ethiopum terra,Terra Ethiopum,albanorum r.,Albanorum Regio,,hibernia,ybernia,,grecia,grecia
+,Persicus s.,[Sinus Persicus],,,Seres,c. Seres,birete,Birete,ethiope d.,Deserta Ethiopie,olympus m.,Mons Olimpus,,alpes godard,alpes godard,,sicilia,sicilia
+,Nubie m.,[Montes Nubie],,,Safris,uicus Safrim,bithynia,Bithinia,cartago in africa,Cartago,hispania citerior,Ispania Citerior,,parthia r.,partya,,athos m.,athos
+,Alpes,[Alpes],,,Hyrcania superior,Hircania superior,Bituris c.,Bituris,septem m.,Septem montes,gilead m.,Mons Galaad,,ophir?,orife insula,,etna m.,ethna
+,Murus Alexandri,[Murus Alexandri],,,Sarmathana c.,c. Sarmathana,bituriges r.,Bituiges,ponticum mare,mare ponticum,manasse,Mannase,,malva,malva,,alpes gothice,alpes iulie cotie
+,Paradisus,[Paradisus],,,Catippi c.,c. Catippi,bizacium c.,Bizachium,brachium georgicum,Brachium Georgicum,tingis,Tingis metropolis,,egyptus,egiptus,,licabantus m.,licabantus
+,Amyctreae,[Amyctreae],,,Alexandria in scythia c.,c. Alexandria,bizantium,Bizantium,macedonicum mare,Mare Macedonicum,hunorum g.,Hunorum gens,,notingera,notyngera,,soluris m.,solurius
+,Ora Conserta,[Gens Ora Conserta],,,Armenia superior,Armenia superior,bizacena,Bizazena,adriaticum mare,Mare Adriaticum,arabica d.,Arabica deserta,,oliveti m.,mons oliveti,,calpes m.,calpes
+,Monoculi,[Monoculi],,,Hiberia,Hiberia ,Blemmye,Blemii,tyrenum mare,Mare Tyrenum,cesarea philippi,Cesarea Philippi,,sina m.,mons syna,,atlas m.,athlas
+,Marmini,[Marmini Ethiopes],,,Hyrcania inferior,Hircania inferior ,boeotia,Boetia,Thatanna,Thatanna,parthau m.,Mons Farthau,,monoculi,monocollus,,ganges fl.,ganges
+,Blemmye,[Blemmye],,,Albania superior,Albania superior,Bogdada,Bogdada,Mavania,Mavania,caspium mare,Mare Caspium,,carent linguis g.,gentes carent linguis,,hydaspis fl.,idaspes
+,Oculos in humeris,[Oculos in humeris],,,Amazonia r.,Regio Amazonum ,Bonacon,Bonachus,Mona,Mona,sicilia,[sicilia],,austerafricus v.,auster affricus,,indus fl.,indus fl.
+,Trogodite,[Trogodite],,,Are Alexandri,are Alexandri,bononia,Bononia,orcades i.,Orcades,borei promontorium,[promontori borei],,columpne herculis,columpne herculis,,araris fl.,araris
+,Artobatitis,[Artobatitis],,,Meotides paludes,Meotide paludes,boreus fl.,Boreus,albatia,Albacia,columpne herculis,[columpne herculis],,septentrio v.,septentrio,,bactrus fl.,bactus
+,Psambari,[Psambari],,,Hyrcania silva,Hicania silua,boreus c.,Boreus,octogora c.,Octosgorra,nili fons,[fons nili],,jordanis fl.,iordanis,,nilus,nilus
+,Cinocephales,[Cynocephales],,,Arumphei,Arimphei,Bosphorus,Bosforus,samara m.,Samara,transitus hebreorum,[transitur hebreorum],,oriens,oriens,,jordanis fl.,iordanis
+,Sine naribus,[Sine naribus],,,Ypanis fl.,fl. Ypanes,Bosos,Bosos,colchos c.,Cholchos,,,,assiria,asyria,,cignus fl.,cignus
+,Phanesii,[Phanesii],,,Lemannus fl.,fl. Lemannus,bracara c.,Bracara,solis i.,Insula solis,,,,accon,civitas acon,,araxis fl.,araxis
+,Anthropophagi,[Anthropophagi],,,Dravus fl.,fl. Drabo,bragmania r.,Bragmania,taprobana,Taprobana insula,,,,bononia,bononica insula,,scythia inferiore,scythia inferiori
+,Auster v.,Auster vel Nothus,,,Savus fl.,fl. Sabo,bragmania c.,Bragmania,argire,Argire,,,,numidia,nyundia,,pactolus fl.,pactolus
+,Septentrionalis v.,Ventus Septentrionalis,,,Strimon fl.,fl. Strimon,bragmani g.,Bragmani,canaria i.,Canaria,,,,rubrum mare,mare rubrum,,hermus fl.,hermus
+,Subsolanus v.,Subsolanus,,,Danubius fl.,fl. Danubius,brigantia,Brigantia,nibaria,Nibaria,,,,pruscia r.,pruscia,,hebrus fl.,hebrus
+,Zephirus v.,Ventus Zephirus,,,Tiberis fl.?,fl. Ty[?],britannia,Britannia,junonia,Iunonia,,,,sancti jacobi,sancti iacobi,,eurotas fl.,eurotas
+,Euronothus v.,Ventus Euronothus,,,Renus fl.,fl. Renus,britannia minor,Briannia minor,Brionia,Brionia,,,,sirtes maiores,cirtes maiores,,inachus fl.,inachus
+,Aufricanus v.,Ventus Aufricinus,,,Rodanus fl.,fl. Rodanus,britannicum m.,Britannicum,gorgades i.,Gorgodes,,,,ethiopes arabea g.,gens arabea ethiops,,herimantus fl.,erimanthus
+,Eurus v.,Ventus Euro,,,Theodosia,c. Theodosia,britannicus s.,Britannicus,Beata,Beata,,,,siria,syria,,sperchius fl.,sperchius
+,Wulturnus v.,Ventus Wulturnus,,,Alania,Alania,brucii,Britia,columpne herculis,Columpne Herculis,,,,arumphei,arimphei,,padus fl.,padus
+,Circius v.,Ventus Circius,,,Cersona,c. Cersona,brixia,Brixia,gades,Gades,,,,calvarie m.,mons calvarie,,tiberis fl.,tyberis
+,Aquilo v.,Aquilo,,,Scythia inferiore,Scitia inferior,brixon fl.,Brixon,liparis i.,Liparis,,,,grecia,grecia,,danubius fl.,danubius vel ister
+,Libonothus v.,Libonothus,,,Constantinopolis,c. Constantinopolis,brundisium,Brundusium,maiorca,Maiorica,,,,dacia,dacia,,hister fl.,danubius vel ister
+,Chorus v.,Ventus Corus,,,Ransburg,c. Ransburg,brucii,Bruttii,minorca,Minorica,,,,capua,capua,,renus fl.,renus
+,Nothus v.,Auster vel Nothus,,,eraclea in boeotia,c. Eraclea,burdigala,Burdegala,sicilia,Sicilia,,,,sicilia,sicilia,,rodanus fl.,rodanus
+,,,,,Beroe,c. Beroe,burgundia,Burgundia,corsica,Corsica,,,,saba,saba,,mosa fl.,mosa
+,,,,,Larissa,c. Larissa,burgundiones,Burgundiones,Poncia,Poncia,,,,cessias i.,cessias insula,,sequana fl.,sequana
+,,,,,Lorum,c. Lorum,cabilones,Cabilones,creta,Creta,,,,parnias v.,parnias,,ligeris fl.,ligeris
+,,,,,Corinthus c.,c. Chorintus,cadurx,Cadurx,Naxos,Naxo,,,,tile,thilos insula,,hiberis fl.,hyberus
+,,,,,Athena,c. Athene,calabria,Calabria,rodus,Rodus,,,,capria i.,insule caprarie,,galicia,gallitie
+,,,,,Dirracium,c. Dirracium,calaminica,Calaminica,tenedos,Insula Tenedos,,,,subsolanus v.,subsolanus,,mineus fl.,mineus
+,,,,,Thebe in boeotia,c. Thebe,calcarsus l.,Calcarsus,paradisus,Paradisus,,,,arsida,arsida insula,,kartagena r.,Kartaginis
+,,,,,Bononia,Bononia,calcedonia c.,Calcedonia,antipodes,Antipodes,,,,pictavia r.,pictavia,,tagus fl.,tagus
+,,,,,Mediolanum,c. Mediolanum,calipso i.,Calipso,plaga australis,Plaga australis,,,,pigmei,pigmei,,bagrada fl.,bagrada
+,,,,,Italia,Italia,calpes m.,Calpe,zona australis frigida,Zona australis frigida,,,,moesia,misea,,taprobana,taprobane
+,,,,,Roma,c. Roma,cameleopardus,Cameleopardus,zona fervida inhabilitabilis,Zona fervida inhabilitabilis,,,,hyrcania,hyrcania,,tyle,tyle
+,,,,,Ravenna,Rauenna,cameracus,Cameracus,occeanus filiis adae incognitus,Occeanus filiis Adae incognitus,,,,galatia,gallacia,,argire,argira
+,,,,,Gallia,Gallia,campania,Campania,,,,,,hungaria,hungaria,,crise,crisa
+,,,,,Magontia,c. Magontia,campi c.,Campi,,,,,,tyle,Tile insula,,mediterraneum mare,mari magno
+,,,,,Normannia,Normannia,canaria i.,Caninaria,,,,,,palestina,palestina,,phaneriorum i.,phaneriorum
+,,,,,Rothomagum,c. Rotomagus,canopus i.,Canopia,,,,,,cyclopes g.,culopes,,albatia i.,albatia
+,,,,,Belvagus,c. Beluacus,catabathmon m.,Cantabathmon,,,,,,sirtis,cirses,,hyperborea i.,iperborea
+,,,,,Remis,c. Remis,cantabria,Cantabria,,,,,,northampton,northampton,,apallina i.,apolitana
+,,,,,Lugdunum,c. Lugdunum,cantabricus s.,Cantabricus,,,,,,mortuum mare,mare mortuum,,gangavia i.,gangavia
+,,,,,Arelatum,c. Arelatum,capernaum,Capharnaum,,,,,,retia,rethica,,glosaria i.,glosaria
+,,,,,Provincia r.,Prouintia,capadocia c.,Cappadocia,,,,,,sidissay ,civitas sidissay,,norimannia i.,norimannia
+,,,,,Burdigala,c. Burdegala,capadocia r.,Cappadocia,,,,,,bithynia,bithinice,,orcades i.,orchades
+,,,,,Aquitania,Aquitania,capria i.,Capria,,,,,,sirtes,cirtes,,tile,tile
+,,,,,Hispania,Hispania,capsa colim,Capsa Colim,,,,,,getulia,getulia,,scotia,scotia
+,,,,,Cesar Augusta c.,c. Cesaraugusta,capua,Capua,,,,,,normannia,normannia,,britannia,britannia
+,,,,,Cordoba,c. Corduba,cariz,Carais,,,,,,helles,ellodia,,hibernia,hybernia
+,,,,,Archipoleta lacus,Archipoleta lacus quem Nilus ingreditur,caralitani,Caralitani,,,,,,ora conserta,gentes habent ora conserta,,fortunate,insule fortunate
+,,,,,Nilus emergit,hinc Nilus emergit,caria,Caria,,,,,,selandia,selandia,,hesperidum i.,insule hesperidum
+,,,,,Bagrada fl.,fl. Bagrada,carmea,Carmea,,,,,,pathmos,pathmos,,gorgades i.,insule gorgades
+,,,,,Ansaga fl.,fl. Ansaga,carmelus c.,Carmelus,,,,,,amalach r.,regio amalech,,gaulonum i.,insula gauleum
+,,,,,Dara fl.,fl. Dara,carmelus m.,Carmelus,,,,,,turris in macedonia,turre macedonia,,ictiofagorum i.,insula ictiofagorum
+,,,,,Nuchul fl.,fl. Nuchul qui et Nilus,carnotum,Carnotum,,,,,,eurus v.,eurus graece,,adanum i.,adamus
+,,,,,Nilus,fl. Nuchul qui et Nilus,carpatium mare,Carpaium,,,,,,renus fl.,renus fluvius,,coneus i.,coneus
+,,,,,Astrixis m.,mons Astrixis,carpatos i.,Carpatos,,,,,,suevia,suevia,,malichu i.,malicus
+,,,,,Atlas m.,mons Athlas,carra,Carra,,,,,,nilus,nilus,,gades,gades
+,,,,,Lupus  cornutus,lupus cornutus,cartago in africa,Carthago,,,,,,bizantium,byzancium,,baleares,baleares
+,,,,,Leo,leo,carthagensis mare,Carthaginense,,,,,,egyptium mare,mare egiptiacum,,stricades i.,stricades
+,,,,,Simie,simie,caspie p.,Caspie Porte,,,,,,corsica,corsica,,sardinia,sardinia
+,,,,,Serpentes,serpentes,caspium mare,Caspium,,,,,,cyprus,cyprus,,corsica,corsica
+,,,,,Coluber mire longitudinis,coluber mire longitudinis,caspius m.,Caspius,,,,,,frisia,friscia,,cephalonia i.,cephalina
+,,,,,Prester,prester,catalonia,Cathalaunus,,,,,,albania,albania,,cyclades,ciclades
+,,,,,Ethiopie d.,Ethiopum deserta loca ,cathmorum,Cathmi,,,,,,aquitania,aquitania gallia,,rodus,rodos
+,,,,,Monasteria Monachorum Egyptiorum,monasterium monachorum Egypti,caucasus m.,Caucasus,,,,,,eboracum,eborum,,tenedos,tenedos
+,,,,,Egyptus d.,Egyptiaca deserta,cedar,Cedar,,,,,,brabancia,brabancia,,carpatos i.,carpathos
+,,,,,Meroe c.,Meroe c.,cenneret,Cenereth,,,,,,danubius fl.,danubius fluvius,,citherea i.,cythera
+,,,,,Castra Alexandri,castra Alexandria,cinocephales,Cenocephali,,,,,,euronothus v.,euro nothus,,cyprus,cyprus
+,,,,,Paretonium,c. Paretonium,cenomanis,Cenomannis,,,,,,tripolitana,tripolitana,,sidon i.,sidon
+,,,,,Sirtes,syrtes,centumcellis,Centumcellis,,,,,,india ultima,ultima india,,creta,creta
+,,,,,Are Philenorum,are Philenorum,cerastes,Cerastes,,,,,,cilicia,silisia,,pathmos,pathmos
+,,,,,Tuburbis,c. Tuburbis,ceronia,Ceronia,,,,,,hanaldia,hanaldia,,chaldea,caldea
+,,,,,Cartago in africa,c. Cathargo,cersona,Cersona,,,,,,libonothus v.,libonothus,,babilon c.,babylon
+,,,,,Bizacium c.,c. Bizatium,cervi,Cervi,,,,,,anthropophagi,androfagi,,assiria,assiria
+,,,,,Hippo r.,Yppo Regium,cesar augusta c.,Cesaraugusta,,,,,,africa,affricus,,nineveh,ninive
+,,,,,Septem oppidum,c. Septem oppidum,cesarea in capadocie,Cesarea Capadocie,,,,,,zephirus v.,epherus,,india,india
+,,,,,Lix c.,c. Lix,cesarea in palestine,Cesarea Palestine,,,,,,soldanus tarsie,soldanus tarsie,,nisa,nisa
+,,,,,Hesperia c.,c. Esperia,cesarea philippi,Cesarea Philippi,,,,,,trogodite,trigogites,,media r.,media
+,,,,,Octogora c.,c. Octorogorra,cesaria in mauritania,Cesaria,,,,,,crise,crisa insula,,media c.,media
+,,,,,circius v.,circius qui est gallicus,ceutria,Ceutria,,,,,,gymnosophiste,gignosophiste,,susis,susis
+,,,,,gallicus v.,circius qui est gallicus,chadesbarne,Chadesbarne,,,,,,narbonensis r.,nabonensis,,ctesiphon,hyctesiphon
+,,,,,,,chaldea,Chaldea,,,,,,hiberia,hyberia,,bactria r.,bactria
+,,,,,,,cana,Chana,,,,,,sidon c.,sidon,,bactria c.,bactrum oppidum
+,,,,,,,carras,Charra,,,,,,braca i.,braca insula,,carras,charra
+,,,,,,,chios,Chion,,,,,,malva,malva,,edessa,edessa
+,,,,,,,chobar,Chobar,,,,,,carmania,carmana,,calanne,calanne
+,,,,,,,colchos i.,Cholcos,,,,,,cephalonia i.,insula cefalonia,,seleucia in mesopotamia,seleucia
+,,,,,,,choos,Choos,,,,,,adanum i.,adanus insula,,philadelphia,philadelphia
+,,,,,,,cyclades,Cyclades,,,,,,bristol,bristol,,octogora c.,ortogorra
+,,,,,,,cignus fl.,Cignus,,,,,,janua,ianua,,samarcan c.,samarchan
+,,,,,,,cilicia,Cilicia,,,,,,andegavia r.,andegavia,,attippi c.,attippi
+,,,,,,,cilicus s.,Cilicus sinus,,,,,,baleares,insule baliaris,,alexandria in scythia,alexandria
+,,,,,,,cimera m.,Cimera,,,,,,sine naribus,gentes sine naribus,,scythiopolis,scitopolis
+,,,,,,,cimericum mare,Cimericum,,,,,,alexandria in egyptus c.,alexandria,,safris,vicus saphiri
+,,,,,,,cinopodes,Cinopodes,,,,,,bavaria,bavaria,,antiochia,antiochia
+,,,,,,,circapolis,Circapcolis,,,,,,arca noe,archa noe,,damascus,damascus
+,,,,,,,Cisame,Cisame,,,,,,philenorum are,are philanorum,,seleucia in siria,seleucia
+,,,,,,,citherea i.,Citherea,,,,,,italicus s.,ytalicus sinus,,tyrus,tyrus
+,,,,,,,clarus m.,Clarus mons,,,,,,man,insula man,,sidon c.,sidon
+,,,,,,,claudiopolis,Claudiopolis,,,,,,ethiopia calidissima,ethiopia calidissima,,tarsus,tarsus
+,,,,,,,climax m.,Climax,,,,,,creta,creta,,nicomedia,nichomedia
+,,,,,,,clipea,Clipea,,,,,,colonia,colonia,,nicaea,nicea
+,,,,,,,coaspis,Coaspis,,,,,,homines canescunt in iuventute et nigrescunt in senectute,homines canescunt in iuventute,,calcedonia c.,calcedonia
+,,,,,,,cocadrillus,Cocodrilli,,,,,,hispania,hispania,,sardis,sardis
+,,,,,,,colonia,Colonia,,,,,,brundisium,brundiston,,ilium,ilium
+,,,,,,,colubraria i.,colubraria,,,,,,termineus s.,sinus termineus,,ephesus,ephesus
+,,,,,,,commagena,Commagena,,,,,,excester,excester,,pergamus,pergamus
+,,,,,,,constantia,Constantia,,,,,,stanford,stanford,,tyatira c.,tiatire
+,,,,,,,constantinopolis,Constantinoplis,,,,,,propontides i.,propontides insula,,samaria r.,samarie
+,,,,,,,convenarum,Convenarum,,,,,,malichu i.,malicus insule,,betthaven c.,betthaven
+,,,,,,,corcyra,Corcira,,,,,,armenie m.,mons armenie,,samaria c.,samaria
+,,,,,,,cordoba,Corduba,,,,,,wintonia,wyntonia,,cesarea in palestine,cesarea
+,,,,,,,corinthus c.,Corinthius,,,,,,tanais fl.,fluvius tanays,,nazareth,nazareth
+,,,,,,,cornelli forum,Cornelli forum,,,,,,samaria i.,samaria insula,,chorazin,corozaim
+,,,,,,,cornicularia,Cornicularia,,,,,,sardinia,sardinia,,bethsaida,bethsaida
+,,,,,,,chorazin,Corozaim,,,,,,bactria r.,blactrica,,tiberias,tyberias
+,,,,,,,corsica,Corsica,,,,,,gorgades i.,gorgades insula,,cana,cana
+,,,,,,,cosium,Cosium,,,,,,achaia,acaya,,capernaum,capharnaum
+,,,,,,,creta,Creta,,,,,,abidos,abidos,,naim,naim
+,,,,,,,crise,Crise,,,,,,media r.,media,,jerusalem,ierusalem
+,,,,,,,cristoas,Crisortoas,,,,,,bethlehem,betleem,,bethlehem,bethleem
+,,,,,,,cucim c.,Cucim oppidum,,,,,,tigris fl.,[tigris fl.],,jericho,ierico
+,,,,,,,cyprium mare,Cyprium,,,,,,paradisus,[paradisus],,hebron,ebron
+,,,,,,,cyprus,Cyprus,,,,,,euphrates fl.,[euphrates fl.],,constantinopolis,constantinopolis
+,,,,,,,cirene,Cyrene,,,,,,,,,panisus,panisus
+,,,,,,,dacia,Daci,,,,,,,,,nicopolis,nichopolis
+,,,,,,,dalmatia,Dalmatia,,,,,,,,,cesarea philippi,philippis
+,,,,,,,dalmis,Dalmis,,,,,,,,,sestos c.,sestos
+,,,,,,,damascus,Damascus,,,,,,,,,attica,attica
+,,,,,,,dan fl.,Dan ,,,,,,,,,athena,athene
+,,,,,,,danaper fl.,Danapes,,,,,,,,,thessalonica,thessalonica
+,,,,,,,danubius fl.,Danubius,,,,,,,,,larissa,larissa
+,,,,,,,dara fl.,Dara,,,,,,,,,corinthus c.,corinthus
+,,,,,,,decusa,Decusa,,,,,,,,,thebe in boeotia,thebe
+,,,,,,,delos,Delos,,,,,,,,,tafnis,tafnes
+,,,,,,,delphi,Delphi,,,,,,,,,memphis,menphis
+,,,,,,,delsephon,Delsephon,,,,,,,,,heliopolis,eliopolis
+,,,,,,,derbant,Derbant,,,,,,,,,pelusium c.,pelusium
+,,,,,,,didime,Didime,,,,,,,,,alexandria bucefola,alexandria bucefola
+,,,,,,,dioscorus,Dioscorus,,,,,,,,,alexandria montuosa,alexandria montuosa
+,,,,,,,dirracium,Dirracium,,,,,,,,,alexandria  apud porum,alexandria apud porum
+,,,,,,,domin,Domin,,,,,,,,,alexandria in scythia,alexandria in scithia
+,,,,,,,donimus,Donimus,,,,,,,,,alexandria apud babilonia,alexandria apud babilonem
+,,,,,,,dordonia,Dordonia,,,,,,,,,alexandria in egyptus c.,alexandria in egipto
+,,,,,,,dorstedas,Dorstedas,,,,,,,,,alexandria apud massagete,alexandria apud massagetas
+,,,,,,,dravus fl.,Drabo,,,,,,,,,alexandria apud orgalas,alexandria apud orgalas
+,,,,,,,draco,Draco,,,,,,,,,alexandria apud granicum,alexandria apud granicum
+,,,,,,,durentia,Durentia,,,,,,,,,alexandria apud troadem,alexandria apud troadem
+,,,,,,,durius,Durius,,,,,,,,,alexandria iuxta tigris,alexandria iuxta tigrum
+,,,,,,,eborica,Ebroas,,,,,,,,,alexandria apud sanctum,alexandria apud sanctum
+,,,,,,,ebos fl.,Ebrus ,,,,,,,,,libia cirenensis,libie cyrenensis
+,,,,,,,ebusus i.,Ebusus,,,,,,,,,cirene,cyrene
+,,,,,,,echbatanis,Echbatanis,,,,,,,,,parthenium,parthenium
+,,,,,,,Ctesiphon,Ectesifon,,,,,,,,,berenice c.,beronice
+,,,,,,,edessa,Edissa,,,,,,,,,apollonia c.,apollonia
+,,,,,,,edua,edua,,,,,,,,,ptolomais,ptolomais
+,,,,,,,aegeum mare,Egeum,,,,,,,,,hadrumetum,adrumetum
+,,,,,,,egyptus d.,Egypti deserta,,,,,,,,,roma,roma
+,,,,,,,egyptus plana,Egypti plana,,,,,,,,,alba,alba
+,,,,,,,egyptium mare,Egytium,,,,,,,,,capua,capua
+,,,,,,,egyptus,Egyptus,,,,,,,,,beneventum,beneventum
+,,,,,,,egyptus inferior,Egyptus inferior,,,,,,,,,sepontus,sepontus
+,,,,,,,egyptus superior,Egyptus superior,,,,,,,,,neapolis,neapolis
+,,,,,,,Elam,Elam,,,,,,,,,tiber c.,tibur
+,,,,,,,elamite,Elamite,,,,,,,,,hostia,hostia
+,,,,,,,elefantes,Elefantes,,,,,,,,,luna,lunis
+,,,,,,,hellada,Elladas ,,,,,,,,,mediolanum,mediolanum
+,,,,,,,Hellespontus,Ellespontus,,,,,,,,,tycinum,ticinum seu papia
+,,,,,,,emaus,Emaus,,,,,,,,,papia,ticinum seu papia
+,,,,,,,emerita,Emerita,,,,,,,,,brixia,brixia
+,,,,,,,emilia,Emilia,,,,,,,,,verona,verona
+,,,,,,,moisselon emporium,Emporium Moisselon,,,,,,,,,ravenna,ravenna
+,,,,,,,engloisma,Engloisma,,,,,,,,,mantua,mantua
+,,,,,,,enoch,Enoch,,,,,,,,,cremona,cremone
+,,,,,,,enon,Enon,,,,,,,,,aquileia,aquileia
+,,,,,,,eous o.,Eous,,,,,,,,,calabria,calabrie
+,,,,,,,ephesus,ephesus,,,,,,,,,tarentus,tarentum
+,,,,,,,epiphania,epiphania,,,,,,,,,colonia,colonia
+,,,,,,,epiroea,Epiroea,,,,,,,,,magontia,magunciacus
+,,,,,,,epirus,Epirus,,,,,,,,,salzburg,salzeburch
+,,,,,,,equinus,Equinus,,,,,,,,,ratisbona,radisbona
+,,,,,,,eraclea in asia minor,Eraclea,,,,,,,,,herbipolis,herbipolis
+,,,,,,,eraclea in boeotia,Eraclea,,,,,,,,,argentora,argentina
+,,,,,,,eraclea in pannonia,Eraclea,,,,,,,,,basilea c.,basilea
+,,,,,,,eraus,Eraus,,,,,,,,,treveris c.,treveris
+,,,,,,,erea,Erea,,,,,,,,,senonis,senonis
+,,,,,,,eridanus,Eridanus,,,,,,,,,vesontio,vesontium
+,,,,,,,erifusa,Erifusa,,,,,,,,Besançon,lugdunum,lugdunum
+,,,,,,,erimantus,Erimantus,,,,,,,,Lyon,rothomagum,rothomagus
+,,,,,,,Hermus,Ermus,,,,,,,,Rouen,remis,remis
+,,,,,,,hesperia c.,Esperia,,,,,,,,Reims,arelatum,arelas
+,,,,,,,hesperidum i.,Esperidum,,,,,,,,Arles,vienne,vienna
+,,,,,,,ethiemens,Ethiemens,,,,,,,,Vienne,darantasia,daranthasia
+,,,,,,,ethiopia,Ethiopia,,,,,,,,Moutiers,ebredunum,ebredunum
+,,,,,,,ethiopia occidentalis,Ethiopica Egyptus,,,,,,,,Embrun,bituris c.,bituris
+,,,,,,,ethiopia egyptus,Ethiopica Egyptus,,,,,,,,Berry,turonis,turonis
+,,,,,,,ethiopia orientalis,Ethiopica India,,,,,,,,Tours,Burdigala,burdegala
+,,,,,,,ethiopia india,Ethiopica India,,,,,,,,Bordeaux,Tolosa,tholosa
+,,,,,,,etruria,Etruria ,,,,,,,,Toulouse,narbona c.,narbona
+,,,,,,,euphrates fl.,Eufrates,,,,,,,,narbonne,pamplona,pamphilonia
+,,,,,,,europa,Europa,,,,,,,,,osca,osca
+,,,,,,,euxinus pontus,Eusinus Pontus,,,,,,,,huesca,barcinona,barzinona
+,,,,,,,euxis fl.,Eusis ,,,,,,,,,terracona c.,tarracona
+,,,,,,,evilath,Evilath,,,,,,,,,tortosa,torthosa
+,,,,,,,evonia,Evonia,,,,,,,,,cartago in hispania,kartago
+,,,,,,,exargus,Exargus,,,,,,,,,valencia,valentia
+,,,,,,,farat,Farath,,,,,,,,,cordoba,corduba
+,,,,,,,farus,Farus,,,,,,,,,girona,gerunda
+,,,,,,,fasidis,Fasidis,,,,,,,,girona,hispalis,hispalis
+,,,,,,,fauni,Fauni ,,,,,,,,,cesar augusta c.,cesaraugusta
+,,,,,,,fenicus i.,Fenicus,,,,,,,,zaragoza,toletum,toletium
+,,,,,,,ferrea,Ferrea,,,,,,,,,cartago in africa,kartago
+,,,,,,,festia,Festia,,,,,,,,,hippo c.,hippus
+,,,,,,,flaminia,Flaminia,,,,,,,,,megala,megala
+,,,,,,,fontes,Fontes,,,,,,,,,cesaria in mauritania,cesarea
+,,,,,,,formica,Formice,,,,,,,,,leptis,leptis
+,,,,,,,fortunate,Fortunate,,,,,,,,,bizacium c.,bizantium
+,,,,,,,forum julii,Forum Iulii,,,,,,,,,clipea,clipea
+,,,,,,,franci g.,Franci,,,,,,,,,,
+,,,,,,,francia,Francia,,,,,,,,,,
+,,,,,,,frigia,Frigia,,,,,,,,,,
+,,,,,,,frigia maior,Frigia maior,,,,,,,,,,
+,,,,,,,frigia minor,Frigia minor,,,,,,,,,,
+,,,,,,,frisia,Frisia,,,,,,,,,,
+,,,,,,,futensis,Futensis,,,,,,,,,,
+,,,,,,,futh,Futh,,,,,,,,,,
+,,,,,,,gades,Gades,,,,,,,,,,
+,,,,,,,gaditanum fretum,Gaditanum fretum,,,,,,,,,,
+,,,,,,,galathe,Galathe,,,,,,,,,,
+,,,,,,,galatia,Galathia,,,,,,,,,,
+,,,,,,,galgala,Galgala,,,,,,,,,,
+,,,,,,,galigardamena,Galigardamena,,,,,,,,,,
+,,,,,,,galilea,Galilea,,,,,,,,,,
+,,,,,,,galli g.,Galli,,,,,,,,,,
+,,,,,,,gallia,Gallia,,,,,,,,,,
+,,,,,,,gallia belgica,Gallia Belgica,,,,,,,,,,
+,,,,,,,gallia celtica,Gallia Celtica,,,,,,,,,,
+,,,,,,,gallia cisalpina,Gallia Cisalpina,,,,,,,,,,
+,,,,,,,gallia narbonensis,Gallia Narbonensis,,,,,,,,,,
+,,,,,,,gallia translapina,Gallia Transalpina,,,,,,,,,,
+,,,,,,,galicia,Galicia,,,,,,,,,,
+,,,,,,,gallicum mare,Gallicum,,,,,,,,,,
+,,,,,,,galloreci,Gallocreci,,,,,,,,,,
+,,,,,,,gangarida,Gangarida,,,,,,,,,,
+,,,,,,,gangines ethiopes,Gangines Ethiopes,,,,,,,,,,
+,,,,,,,ganges fl.,Gangis ,,,,,,,,,,
+,,,,,,,garema,Garama,,,,,,,,,,
+,,,,,,,garamantes,Garamanti,,,,,,,,,,
+,,,,,,,gargala,Gargala,,,,,,,,,,
+,,,,,,,garonna,Garonna,,,,,,,,,,
+,,,,,,,gaudonia,Gaudonia,,,,,,,,,,
+,,,,,,,gaulonum i.,Gaulonum,,,,,,,,,,
+,,,,,,,gaza,Gaza,,,,,,,,,,
+,,,,,,,gazari,Gazari,,,,,,,,,,
+,,,,,,,gehenna,Gehenna,,,,,,,,,,
+,,,,,,,gelboe m.,Gelboe,,,,,,,,,,
+,,,,,,,geloni,Geloni,,,,,,,,,,
+,,,,,,,gennesar l.,Genesareth,,,,,,,,,,
+,,,,,,,gennabus,Gennabus,,,,,,,,,,
+,,,,,,,germania,Germania,,,,,,,,,,
+,,,,,,,getulia,Geth ,,,,,,,,,,
+,,,,,,,gethsuri,Gethsuri,,,,,,,,,,
+,,,,,,,gigantes,Gigantes,,,,,,,,,,
+,,,,,,,gog,Gog,,,,,,,,,,
+,,,,,,,goren,Goren,,,,,,,,,,
+,,,,,,,gorgades i.,Gorgodes,,,,,,,,,,
+,,,,,,,gorgoneos,Gorgoneos,,,,,,,,,,
+,,,,,,,gortina,Gortina,,,,,,,,,,
+,,,,,,,gothia,Gothi,,,,,,,,,,
+,,,,,,,gratianopolis,Gratianopolis,,,,,,,,,,
+,,,,,,,grecia,Grecia,,,,,,,,,,
+,,,,,,,grifes,Grifi,,,,,,,,,,
+,,,,,,,guisara,Guisara,,,,,,,,,,
+,,,,,,,gutalas,Gutalas,,,,,,,,,,
+,,,,,,,geon,Gyon,,,,,,,,,,
+,,,,,,,hadrumetum,Hadrumetus,,,,,,,,,,
+,,,,,,,hai,Hai,,,,,,,,,,
+,,,,,,,heliopolis,Heliopolis,,,,,,,,,,
+,,,,,,,helles,Helles,,,,,,,,,,
+,,,,,,,helvetii,Helvetii,,,,,,,,,,
+,,,,,,,columpne herculis,Herculis Columpne,,,,,,,,,,
+,,,,,,,heriforum,Heriforum,,,,,,,,,,
+,,,,,,,hermon m.,Hermon,,,,,,,,,,
+,,,,,,,hiberia inferior,Hiberia inferior,,,,,,,,,,
+,,,,,,,hiberia superior,Hiberia superior,,,,,,,,,,
+,,,,,,,hibericum mare,Hibericum,,,,,,,,,,
+,,,,,,,hibernia,Hibernia,,,,,,,,,,
+,,,,,,,hiberus fl.,Hiberus,,,,,,,,,,
+,,,,,,,hyrcani g.,Hircani,,,,,,,,,,
+,,,,,,,hispania,Hispania,,,,,,,,,,
+,,,,,,,hispanicum mare,Hispanicum,,,,,,,,,,
+,,,,,,,psambari,Auribus carentes,,,,,,,,,,
+,,,,,,,bicipites,Bicipites,,,,,,,,,,
+,,,,,,,linguis carentes,Linguis carentes,,,,,,,,,,
+,,,,,,,sine naribus ,Naribus carentes,,,,,,,,,,
+,,,,,,,quatuor oculos,Quatuor oculos habentes,,,,,,,,,,
+,,,,,,,labro prominente,Qui labro subteriori faciem tegunt,,,,,,,,,,
+,,,,,,,qui nunquam igne utuntur,Qui nunquam igne utuntur,,,,,,,,,,
+,,,,,,,qui se in mare precipitant,Qui se in mare precipitant,,,,,,,,,,
+,,,,,,,ora conserta,Ore carentes,,,,,,,,,,
+,,,,,,,sine capite,sine capite,,,,,,,,,,
+,,,,,,,solis carnibus viventes,Solis carnibus viventes,,,,,,,,,,
+,,,,,,,hor m.,Hor,,,,,,,,,,
+,,,,,,,horrea josep,horrea Ioseph,,,,,,,,,,
+,,,,,,,hrohes,Hrohes,,,,,,,,,,
+,,,,,,,hus,Hus,,,,,,,,,,
+,,,,,,,hylerdis c.,Hylerdis,,,,,,,,,,
+,,,,,,,hyperboreus,Hyperboreus,,,,,,,,,,
+,,,,,,,hyrcania inferior,Hyrcania inferior,,,,,,,,,,
+,,,,,,,hyrcania superior,Hyrcania superior,,,,,,,,,,
+,,,,,,,hystmos,Hystmos,,,,,,,,,,
+,,,,,,,histria,Hystria,,,,,,,,,,
+,,,,,,,jaculus,Iaculus,,,,,,,,,,
+,,,,,,,iadera,Iadera,,,,,,,,,,
+,,,,,,,janua,Ianua,,,,,,,,,,
+,,,,,,,icarium mare,Icarium,,,,,,,,,,
+,,,,,,,iconium c.,Iconium,,,,,,,,,,
+,,,,,,,ictiofagorum i.,Ictiofagi,,,,,,,,,,
+,,,,,,,idumea,Idumea,,,,,,,,,,
+,,,,,,,jericho,Ierico,,,,,,,,,,
+,,,,,,,jerusalem,Ierusalem,,,,,,,,,,
+,,,,,,,ilium,Ilium,,,,,,,,,,
+,,,,,,,illiricum,Illiricum,,,,,,,,,,
+,,,,,,,illiricus s.,Illiricus,,,,,,,,,,
+,,,,,,,imolas,Imolas,,,,,,,,,,
+,,,,,,,incubi,Incubi,,,,,,,,,,
+,,,,,,,india,India que finem facit,,,,,,,,,,
+,,,,,,,india,India que mittit ad Medos,,,,,,,,,,
+,,,,,,,india,India que mittit ad Parthos,,,,,,,,,,
+,,,,,,,Indicus o.,Indicus,,,,,,,,,,
+,,,,,,,indus fl.,Indus,,,,,,,,,,
+,,,,,,,iona fl.,Iona,,,,,,,,,,
+,,,,,,,ionium mare,Ionium,,,,,,,,,,
+,,,,,,,ioppe,Ioppe,,,,,,,,,,
+,,,,,,,jor fons,Ior,,,,,,,,,,
+,,,,,,,jordanis fl.,Iordanis,,,,,,,,,,
+,,,,,,,italia,Italia,,,,,,,,,,
+,,,,,,,judea,Iudea,,,,,,,,,,
+,,,,,,,junonia,Iunonia,,,,,,,,,,
+,,,,,,,juranus,Iuranus,,,,,,,,,,
+,,,,,,,carnotum,Karnotum,,,,,,,,,,
+,,,,,,,canusius,Kanusius,,,,,,,,,,
+,,,,,,,lacedemonia c.,Lacedemonia,,,,,,,,,,
+,,,,,,,lacedemonia r.,Lacedemonia,,,,,,,,,,
+,,,,,,,langlaria,Langlaria,,,,,,,,,,
+,,,,,,,laodicia,Laodicia,,,,,,,,,,
+,,,,,,,lanius,Lanius,,,,,,,,,,
+,,,,,,,larissa,larissa,,,,,,,,,,
+,,,,,,,lates,Lasec,,,,,,,,,,
+,,,,,,,laudunus,laudunus,,,,,,,,,,
+,,,,,,,leaptinia,Leapitina,,,,,,,,,,
+,,,,,,,lebraha,Lebraha,,,,,,,,,,
+,,,,,,,lecenna,Lecenna,,,,,,,,,,
+,,,,,,,lemannus fl.,Lemannus,,,,,,,,,,
+,,,,,,,lemovica,Lemovica,,,,,,,,,,
+,,,,,,,leodium,Leodium,,,,,,,,,,
+,,,,,,,leones,Leones,,,,,,,,,,
+,,,,,,,leptis,leptis,,,,,,,,,,
+,,,,,,,lesaria,lesaria,,,,,,,,,,
+,,,,,,,letheus,Letheus,,,,,,,,,,
+,,,,,,,leucaton,Leucaton,,,,,,,,,,
+,,,,,,,leuti p.,Leuti portus,,,,,,,,,,
+,,,,,,,libani m.,Libanus,,,,,,,,,,
+,,,,,,,libia,Libia,,,,,,,,,,
+,,,,,,,libia africana,Libia Africana,,,,,,,,,,
+,,,,,,,libia cirenensis,Libia Cirenensis,,,,,,,,,,
+,,,,,,,libia ethiopes,Libia Ethiopum,,,,,,,,,,
+,,,,,,,libia pentapolis,Libia Pentapolis,,,,,,,,,,
+,,,,,,,libicum mare,Libicum,,,,,,,,,,
+,,,,,,,libie d.,Libie deserta,,,,,,,,,,
+,,,,,,,liburnia,Liburnia,,,,,,,,,,
+,,,,,,,liburnicus s.,Liburnicus,,,,,,,,,,
+,,,,,,,licaonia,Licaonia,,,,,,,,,,
+,,,,,,,licia,Licia,,,,,,,,,,
+,,,,,,,lidia,Lidia,,,,,,,,,,
+,,,,,,,ligeris fl.,Ligeris,,,,,,,,,,
+,,,,,,,liguria,Liguria,,,,,,,,,,
+,,,,,,,liguricus s.,Liguricus,,,,,,,,,,
+,,,,,,,lilibeum,Lilibeum,,,,,,,,,,
+,,,,,,,lingonum,Lingonum,,,,,,,,,,
+,,,,,,,listra,Listris,,,,,,,,,,
+,,,,,,,lix c.,Lix ,,,,,,,,,,
+,,,,,,,lixus fl.,Lixus,,,,,,,,,,
+,,,,,,,lorum,Lorum,,,,,,,,,,
+,,,,,,,lotharingia,Lotharingia,,,,,,,,,,
+,,,,,,,lucania,Lucania,,,,,,,,,,
+,,,,,,,luceria,Luceria,,,,,,,,,,
+,,,,,,,luceni,Lucerni,,,,,,,,,,
+,,,,,,,lugdunum,Lugdunensis,,,,,,,,,,
+,,,,,,,lugdunum,Lugdunus,,,,,,,,,,
+,,,,,,,luxovium,Luxovium,,,,,,,,,,
+,,,,,,,liparis i.,Lypparis,,,,,,,,,,
+,,,,,,,macedonia,Macedonia,,,,,,,,,,
+,,,,,,,macedonicus s.,Macedonicus,,,,,,,,,,
+,,,,,,,magdalus,Magdalum,,,,,,,,,,
+,,,,,,,grecia magna,Magna Grecia,,,,,,,,,,
+,,,,,,,magnum mare,Magnum,,,,,,,,,,
+,,,,,,,magog,Magog,,,,,,,,,,
+,,,,,,,magolona,Magolona,,,,,,,,,,
+,,,,,,,magontia,Maguntia,,,,,,,,,,
+,,,,,,,malichu i.,Malius,,,,,,,,,,
+,,,,,,,malva,Malua,,,,,,,,,,
+,,,,,,,mannia,Mannia,,,,,,,,,,
+,,,,,,,manticora,Manticora,,,,,,,,,,
+,,,,,,,mara,Mara,,,,,,,,,,
+,,,,,,,marcomanni,Marcomanni,,,,,,,,,,
+,,,,,,,margus,Margus,,,,,,,,,,
+,,,,,,,marmini,marmaredes,,,,,,,,,,
+,,,,,,,maroch,Maroch,,,,,,,,,,
+,,,,,,,martionopolis,Martionopolis,,,,,,,,,,
+,,,,,,,massilia,Massilia,,,,,,,,,,
+,,,,,,,matisconum,Matisconum,,,,,,,,,,
+,,,,,,,matrona,Matrona,,,,,,,,,,
+,,,,,,,mauritania,Mauritania,,,,,,,,,,
+,,,,,,,mauritania cesariensis,Mauritania Cesariensis,,,,,,,,,,
+,,,,,,,mauritania sitifensis,Mauritania Sitifensis,,,,,,,,,,
+,,,,,,,mauritania tingitana,Mauritania Tingitana,,,,,,,,,,
+,,,,,,,mauritanicum,Mauritanicum,,,,,,,,,,
+,,,,,,,meander,Meander,,,,,,,,,,
+,,,,,,,media r.,Media,,,,,,,,,,
+,,,,,,,mediolanum,Mediolanum,,,,,,,,,,
+,,,,,,,mediomatricum c.,Mediomatricum,,,,,,,,,,
+,,,,,,,megara,Megara,,,,,,,,,,
+,,,,,,,meldis,Meldis,,,,,,,,,,
+,,,,,,,melena,Melena,,,,,,,,,,
+,,,,,,,melita,Melita,,,,,,,,,,
+,,,,,,,melos i.,Melos,,,,,,,,,,
+,,,,,,,memarmoli m.,Memarmoli,,,,,,,,,,
+,,,,,,,membriona,Membriona,,,,,,,,,,
+,,,,,,,menapi,Menapi,,,,,,,,,,
+,,,,,,,menela c.,Menela,,,,,,,,,,
+,,,,,,,menelaus m.,Menelaus,,,,,,,,,,
+,,,,,,,memphis,Menphis,,,,,,,,,,
+,,,,,,,meotides paludes,Meotide Paludes,,,,,,,,,,
+,,,,,,,meroe,Meroe,,,,,,,,,,
+,,,,,,,moesia,Mesia,,,,,,,,,,
+,,,,,,,mesopotamia,Mesopotamia,,,,,,,,,,
+,,,,,,,messana,Messana,,,,,,,,,,
+,,,,,,,messia i.,messia,,,,,,,,,,
+,,,,,,,messia c.,messia,,,,,,,,,,
+,,,,,,,messicus s.,Messicus,,,,,,,,,,
+,,,,,,,metus,Metis,,,,,,,,,,
+,,,,,,,metona,Metona,,,,,,,,,,
+,,,,,,,mevania,Mevania,,,,,,,,,,
+,,,,,,,miletus,Miletus,,,,,,,,,,
+,,,,,,,mineus fl.,Mineus,,,,,,,,,,
+,,,,,,,mirteum mare,Mirteum,,,,,,,,,,
+,,,,,,,mogona,Mogona,,,,,,,,,,
+,,,,,,,monasteria monachorum egyptiorum,Monasteria Monachorum Egyptiorum,,,,,,,,,,
+,,,,,,,monopodes,Monopodes,,,,,,,,,,
+,,,,,,,cassinus m.,Mons Cassinus,,,,,,,,,,
+,,,,,,,morini,Morini,,,,,,,,,,
+,,,,,,,mortuum mare,Mortuum,,,,,,,,,,
+,,,,,,,mosa fl.,Mosa,,,,,,,,,,
+,,,,,,,mosella,Mosella,,,,,,,,,,
+,,,,,,,nabath,Nabath,,,,,,,,,,
+,,,,,,,nadaver,Nadaver,,,,,,,,,,
+,,,,,,,nametis,Namnetis,,,,,,,,,,
+,,,,,,,nani,Nani,,,,,,,,,,
+,,,,,,,narbona c.,Narbona,,,,,,,,,,
+,,,,,,,narbonensis r.,Narbonenses,,,,,,,,,,
+,,,,,,,nasamones,Nasamones,,,,,,,,,,
+,,,,,,,noxon,Noxon,,,,,,,,,,
+,,,,,,,nazareth,Nazareth,,,,,,,,,,
+,,,,,,,neapolis,Neapolis,,,,,,,,,,
+,,,,,,,neamusium,Nemausium,,,,,,,,,,
+,,,,,,,nametis,Nemetum,,,,,,,,,,
+,,,,,,,neustria,Neustria,,,,,,,,,,
+,,,,,,,nicaea,Nicea,,,,,,,,,,
+,,,,,,,nicomedia,Nichomedia,,,,,,,,,,
+,,,,,,,nicopolis,Nichopolis,,,,,,,,,,
+,,,,,,,nuchul fl.,Nichul,,,,,,,,,,
+,,,,,,,nicopolis,Nicopolis (in Palestina),,,,,,,,,,
+,,,,,,,nilus,Nilus,,,,,,,,,,
+,,,,,,,nineveh,Ninive,,,,,,,,,,
+,,,,,,,nisa,Nisan,,,,,,,,,,
+,,,,,,,nisibi,Nisibi,,,,,,,,,,
+,,,,,,,nivaria i.,Nivaria,,,,,,,,,,
+,,,,,,,nivernis,Nivedunu,,,,,,,,,,
+,,,,,,,noricus,Noricus,,,,,,,,,,
+,,,,,,,normannia,Northmannia,,,,,,,,,,
+,,,,,,,noviomus,Noviomus,,,,,,,,,,
+,,,,,,,nubie p.,Nubie Porte,,,,,,,,,,
+,,,,,,,nubii g.,Nubii,,,,,,,,,,
+,,,,,,,numides,Numides,,,,,,,,,,
+,,,,,,,numidia,Numidia,,,,,,,,,,
+,,,,,,,numidicus s.,Numidicus,,,,,,,,,,
+,,,,,,,nursia,Nursia,,,,,,,,,,
+,,,,,,,occea,Occea,,,,,,,,,,
+,,,,,,,occhus,Occhus,,,,,,,,,,
+,,,,,,,occidentalis o.,Occidentalis,,,,,,,,,,
+,,,,,,,octogora c.,Octogorra,,,,,,,,,,
+,,,,,,,octogora fl.,Octogorra,,,,,,,,,,
+,,,,,,,olympia c.,Olimpia,,,,,,,,,,
+,,,,,,,olympus m.,Olimpus,,,,,,,,,,
+,,,,,,,oliveti m.,Oliveti,,,,,,,,,,
+,,,,,,,onagri,Onagri,,,,,,,,,,
+,,,,,,,orcades i.,Orchades,,,,,,,,,,
+,,,,,,,organus,Organus,,,,,,,,,,
+,,,,,,,orientalis o.,Orientalis,,,,,,,,,,
+,,,,,,,ortigia,ortigia,,,,,,,,,,
+,,,,,,,oruns,Oruns,,,,,,,,,,
+,,,,,,,oscobares m.,Oschobares,,,,,,,,,,
+,,,,,,,oximus,Oximus,,,,,,,,,,
+,,,,,,,pachinum,Pachinum,,,,,,,,,,
+,,,,,,,pactolus fl.,Pactulus,,,,,,,,,,
+,,,,,,,padus fl.,Padus,,,,,,,,,,
+,,,,,,,palestina,Palestina,,,,,,,,,,
+,,,,,,,pamphilium mare,Pamphilium,,,,,,,,,,
+,,,,,,,pamplona,Pampolana,,,,,,,,,,
+,,,,,,,pandea,Pandea,,,,,,,,,,
+,,,,,,,panisus,Panisus,,,,,,,,,,
+,,,,,,,pannonia,Pannonia,,,,,,,,,,
+,,,,,,,panorma,Panorma,,,,,,,,,,
+,,,,,,,panotii,Panotii,,,,,,,,,,
+,,,,,,,pantaris c.,Pantaris,,,,,,,,,,
+,,,,,,,panther,Panther,,,,,,,,,,
+,,,,,,,paphos,Paphos,,,,,,,,,,
+,,,,,,,papia,Papia,,,,,,,,,,
+,,,,,,,par,Par,,,,,,,,,,
+,,,,,,,paranda,Paranda,,,,,,,,,,
+,,,,,,,parchoatras m.,Parchoatras,,,,,,,,,,
+,,,,,,,paretonium,Paretonium,,,,,,,,,,
+,,,,,,,parisius,Parisius,,,,,,,,,,
+,,,,,,,parma,parma,,,,,,,,,,
+,,,,,,,paros,Paros,,,,,,,,,,
+,,,,,,,parthan in armenia c.,parthan,,,,,,,,,,
+,,,,,,,parthia r.,Parthia,,,,,,,,,,
+,,,,,,,parthia in parthia c.,Parthia,,,,,,,,,,
+,,,,,,,pathmos,Pathmos,,,,,,,,,,
+,,,,,,,patras,Patras,,,,,,,,,,
+,,,,,,,pelorum,Pelorum,,,,,,,,,,
+,,,,,,,pelusium c.,Pelusium,,,,,,,,,,
+,,,,,,,pelusium fl.,Pelusium,,,,,,,,,,
+,,,,,,,pelusium s.,Pelusium,,,,,,,,,,
+,,,,,,,Bergomum,Pergamum,,,,,,,,,,
+,,,,,,,pergamus,Pergamus,,,,,,,,,,
+,,,,,,,persia,Persia,,,,,,,,,,
+,,,,,,,persepolis,Persipolis,,,,,,,,,,
+,,,,,,,persicus s.,Perticus,,,,,,,,,,
+,,,,,,,perusium,Perusina,,,,,,,,,,
+,,,,,,,pestum,Pestum,,,,,,,,,,
+,,,,,,,petra,Petragora,,,,,,,,,,
+,,,,,,,phatures,Phatures,,,,,,,,,,
+,,,,,,,phenicia,Phenicia,,,,,,,,,,
+,,,,,,,phenicis mare,Phenicis,,,,,,,,,,
+,,,,,,,philadelphia,Philadelphia,,,,,,,,,,
+,,,,,,,philenorum are,Philenorum are,,,,,,,,,,
+,,,,,,,piscinus,Picenus,,,,,,,,,,
+,,,,,,,pictavis c.,Pictavis,,,,,,,,,,
+,,,,,,,pigmei,Pigmei,,,,,,,,,,
+,,,,,,,pirenei m.,Pirenei,,,,,,,,,,
+,,,,,,,pisa,Pisa,,,,,,,,,,
+,,,,,,,piscaria,Piscaria,,,,,,,,,,
+,,,,,,,pitavium,Pitavium,,,,,,,,,,
+,,,,,,,placentia,Placentia,,,,,,,,,,
+,,,,,,,polibota,Polibotra,,,,,,,,,,
+,,,,,,,poros,Poros,,,,,,,,,,
+,,,,,,,prester,Prester,,,,,,,,,,
+,,,,,,,prochenissa,Proconissa,,,,,,,,,,
+,,,,,,,propontis mare,Propontis,,,,,,,,,,
+,,,,,,,provincia r.,Provinicia,,,,,,,,,,
+,,,,,,,prusias c.,Prusias,,,,,,,,,,
+,,,,,,,psilli,Psilli,,,,,,,,,,
+,,,,,,,ptolomais,Ptolomais,,,,,,,,,,
+,,,,,,,punici,Punici,,,,,,,,,,
+,,,,,,,ramesses,Ramesses,,,,,,,,,,
+,,,,,,,ransburg,Ransburg,,,,,,,,,,
+,,,,,,,ravenna,Ravenna,,,,,,,,,,
+,,,,,,,reate,Reate,,,,,,,,,,
+,,,,,,,redonis,Redonis,,,,,,,,,,
+,,,,,,,regium,Regium,,,,,,,,,,
+,,,,,,,remis,Remis,,,,,,,,,,
+,,,,,,,retia,Rethia,,,,,,,,,,
+,,,,,,,retia maior,Rethia prima,,,,,,,,,,
+,,,,,,,retia minor,Rethia secunda,,,,,,,,,,
+,,,,,,,renus fl.,Rhenus,,,,,,,,,,
+,,,,,,,rodus,Rhodus,,,,,,,,,,
+,,,,,,,rodanus fl.,Rhodanus,,,,,,,,,,
+,,,,,,,riphei m.,Riphei,,,,,,,,,,
+,,,,,,,robasci,Robasci,,,,,,,,,,
+,,,,,,,roma,Roma,,,,,,,,,,
+,,,,,,,rothomagum,rothomagus,,,,,,,,,,
+,,,,,,,rubrum mare,rubrum,,,,,,,,,,
+,,,,,,,rupis,Rupis,,,,,,,,,,
+,,,,,,,ruscia,russicada,,,,,,,,,,
+,,,,,,,ruthupi portus c.,Ruth,,,,,,,,,,
+,,,,,,,ruthenus c.,Ruthenus,,,,,,,,,,
+,,,,,,,saba,Sabea,,,,,,,,,,
+,,,,,,,savus fl.,Sabo,,,,,,,,,,
+,,,,,,,sabrata,Sabreta,,,,,,,,,,
+,,,,,,,sagagdan,Sagagdan,,,,,,,,,,
+,,,,,,,sagiensis,Sagiensis,,,,,,,,,,
+,,,,,,,sagitarii,Sagitarii,,,,,,,,,,
+,,,,,,,sagomna,Sagomna,,,,,,,,,,
+,,,,,,,sala c.,Sala,,,,,,,,,,
+,,,,,,,sala fl.,Sala,,,,,,,,,,
+,,,,,,,salamina,Salamina,,,,,,,,,,
+,,,,,,,saldis c.,Saldis,,,,,,,,,,
+,,,,,,,sale c.,Sale,,,,,,,,,,
+,,,,,,,salerna,Salerna,,,,,,,,,,
+,,,,,,,saline,Saline,,,,,,,,,,
+,,,,,,,salmon,Salmon,,,,,,,,,,
+,,,,,,,saltus,Saltus,,,,,,,,,,
+,,,,,,,samara m.,Samara,,,,,,,,,,
+,,,,,,,samo fl.,Samo,,,,,,,,,,
+,,,,,,,samos i.,Samos,,,,,,,,,,
+,,,,,,,sancti jacobi,Sancti Iacobi,,,,,,,,,,
+,,,,,,,sanctonas,Sanctonas,,,,,,,,,,
+,,,,,,,sannium,Sannium,,,,,,,,,,
+,,,,,,,safris,Saphra,,,,,,,,,,
+,,,,,,,sardinia,Sardinia,,,,,,,,,,
+,,,,,,,sardinicum mare,Sardinicum,,,,,,,,,,
+,,,,,,,sardis,Sardis,,,,,,,,,,
+,,,,,,,sardum mare,Sardum,,,,,,,,,,
+,,,,,,,sarepta,Sarepta,,,,,,,,,,
+,,,,,,,sarmatica r.,Sarmate,,,,,,,,,,
+,,,,,,,sarmathana c.,Sarmathana,,,,,,,,,,
+,,,,,,,sarraceni nabatehi,Sarraceni nabatehi,,,,,,,,,,
+,,,,,,,satyri,Satyri,,,,,,,,,,
+,,,,,,,saxones,Saxones,,,,,,,,,,
+,,,,,,,saxonia,Saxonia,,,,,,,,,,
+,,,,,,,scaldus,Scaldus,,,,,,,,,,
+,,,,,,,scena,Scena,,,,,,,,,,
+,,,,,,,scinize,Scinize,,,,,,,,,,
+,,,,,,,sithe,Scitie,,,,,,,,,,
+,,,,,,,scythia,Scithia,,,,,,,,,,
+,,,,,,,scythia inferiore,Scithia inferior,,,,,,,,,,
+,,,,,,,scythia superiore,Scithia superior,,,,,,,,,,
+,,,,,,,scythiopolis,Scithopolis,,,,,,,,,,
+,,,,,,,scorpiones,Scorpiones,,,,,,,,,,
+,,,,,,,scotia,Scoti,,,,,,,,,,
+,,,,,,,scupis,Scupis,,,,,,,,,,
+,,,,,,,sebastea in palestina,Sebastea,,,,,,,,,,
+,,,,,,,sebastia in egyptus,Sebastia,,,,,,,,,,
+,,,,,,,sebastia pentapolis,Sebastia,,,,,,,,,,
+,,,,,,,seyr m.,Seir,,,,,,,,,,
+,,,,,,,seleucia in siria,Seleucia,,,,,,,,,,
+,,,,,,,seleucia in mesopotamia,seleucia,,,,,,,,,,
+,,,,,,,senogallia,Senogallia,,,,,,,,,,
+,,,,,,,senonenses,Senonenses,,,,,,,,,,
+,,,,,,,septem oppidum,Septem oppidum,,,,,,,,,,
+,,,,,,,septentrion o.,Septentrionalis,,,,,,,,,,
+,,,,,,,sequana fl.,Sequana,,,,,,,,,,
+,,,,,,,sequani,Sequani,,,,,,,,,,
+,,,,,,,seres,Seres,,,,,,,,,,
+,,,,,,,sericus mare,Sericum,,,,,,,,,,
+,,,,,,,serpentes,Serpentes,,,,,,,,,,
+,,,,,,,sessia,Sessia,,,,,,,,,,
+,,,,,,,sestos c.,Sestos,,,,,,,,,,
+,,,,,,,sichem,Sichem,,,,,,,,,,
+,,,,,,,sicilia,Sicilia,,,,,,,,,,
+,,,,,,,siculum,siculum,,,,,,,,,,
+,,,,,,,sidon i.,Sidonia,,,,,,,,,,
+,,,,,,,sigau,Sigau,,,,,,,,,,
+,,,,,,,siler,Siler,,,,,,,,,,
+,,,,,,,silvanectum,Silvanectum,,,,,,,,,,
+,,,,,,,sinnada,Sinnada,,,,,,,,,,
+,,,,,,,sipontus,Sipontus,,,,,,,,,,
+,,,,,,,siracusa,Siracusana,,,,,,,,,,
+,,,,,,,siraph,Siraph,,,,,,,,,,
+,,,,,,,sirtes,Sirtes,,,,,,,,,,
+,,,,,,,sitifis c.,Sitifis,,,,,,,,,,
+,,,,,,,sochoth,Socoth,,,,,,,,,,
+,,,,,,,soloe,Soloe,,,,,,,,,,
+,,,,,,,somena,Somena,,,,,,,,,,
+,,,,,,,spoletum,Spoletum,,,,,,,,,,
+,,,,,,,stoecades,Stoecades,,,,,,,,,,
+,,,,,,,strasburg,Straburg,,,,,,,,,,
+,,,,,,,stridonis i.,Stridonis,,,,,,,,,,
+,,,,,,,strimon fl.,Strimon,,,,,,,,,,
+,,,,,,,stripodes,Stripodem,,,,,,,,,,
+,,,,,,,strongile,Strongile,,,,,,,,,,
+,,,,,,,subentani,Subentani,,,,,,,,,,
+,,,,,,,suessionum,Suessionum,,,,,,,,,,
+,,,,,,,suevus m.,Suevus,,,,,,,,,,
+,,,,,,,suevia,Suevia,,,,,,,,,,
+,,,,,,,susis,Susis,,,,,,,,,,
+,,,,,,,sidon c.,Sydonia,,,,,,,,,,
+,,,,,,,sina m.,Syna,,,,,,,,,,
+,,,,,,,syon m.,Syon,,,,,,,,,,
+,,,,,,,siria,Syria,,,,,,,,,,
+,,,,,,,syrmium,Syrmium,,,,,,,,,,
+,,,,,,,sirtes minores,Syrtes minores,,,,,,,,,,
+,,,,,,,tabraca,Tabraca,,,,,,,,,,
+,,,,,,,tagapi,Tagapi,,,,,,,,,,
+,,,,,,,tagus fl.,Tagus,,,,,,,,,,
+,,,,,,,taprobana,Taprobana,,,,,,,,,,
+,,,,,,,tapson,Tapson,,,,,,,,,,
+,,,,,,,tarentus,Tarentus,,,,,,,,,,
+,,,,,,,tarvenna,Tarvenna,,,,,,,,,,
+,,,,,,,tatus c.,Tatus,,,,,,,,,,
+,,,,,,,tauri,Tauri,,,,,,,,,,
+,,,,,,,tarominitani,Taurominitani,,,,,,,,,,
+,,,,,,,taurus m.,Taurus,,,,,,,,,,
+,,,,,,,tea,Tea,,,,,,,,,,
+,,,,,,,templum ammonis,Templum Ammonis,,,,,,,,,,
+,,,,,,,tenedos,Tenedos,,,,,,,,,,
+,,,,,,,theode,Teode,,,,,,,,,,
+,,,,,,,terracona i.,Terracona,,,,,,,,,,
+,,,,,,,tabor m.,Thabor,,,,,,,,,,
+,,,,,,,tafnis,Thafnis,,,,,,,,,,
+,,,,,,,tanais fl.,Thanais,,,,,,,,,,
+,,,,,,,thanatos,Thanatos,,,,,,,,,,
+,,,,,,,tarsus,Tharsus,,,,,,,,,,
+,,,,,,,Thebe in egyptus,Thebe,,,,,,,,,,
+,,,,,,,Thebe in boeotia,Thebe,,,,,,,,,,
+,,,,,,,theodosia,Theodosia,,,,,,,,,,
+,,,,,,,theodosipolis,Theodosipolis,,,,,,,,,,
+,,,,,,,terasia,Therasia,,,,,,,,,,
+,,,,,,,thessalia,thessalia,,,,,,,,,,
+,,,,,,,thessalonica,Thessalonica,,,,,,,,,,
+,,,,,,,teutonica,Theutonica,,,,,,,,,,
+,,,,,,,timavus m.,Timavus,,,,,,,,,,
+,,,,,,,temiscerii campi,Timiscerii campi,,,,,,,,,,
+,,,,,,,tingis,Tingis,,,,,,,,,,
+,,,,,,,toglit,Toglit,,,,,,,,,,
+,,,,,,,tolosa,Tolosa,,,,,,,,,,
+,,,,,,,tornacus,Tornacus,,,,,,,,,,
+,,,,,,,tracia r.,Tracia,,,,,,,,,,
+,,,,,,,tragata,Tragata,,,,,,,,,,
+,,,,,,,tragelafi,Tragelafi,,,,,,,,,,
+,,,,,,,trecas,Trecas,,,,,,,,,,
+,,,,,,,treodenus,Treodenus,,,,,,,,,,
+,,,,,,,treveris c.,Treveris,,,,,,,,,,
+,,,,,,,tripolitana,Tripolitana,,,,,,,,,,
+,,,,,,,triton,Triton,,,,,,,,,,
+,,,,,,,trogodite,Trogodite,,,,,,,,,,
+,,,,,,,tuburbis,Tuburbis,,,,,,,,,,
+,,,,,,,tuburbitani,Tuburbitani,,,,,,,,,,
+,,,,,,,tudertina,Tudertina,,,,,,,,,,
+,,,,,,,tullo,Tullo,,,,,,,,,,
+,,,,,,,tungris,Tungris,,,,,,,,,,
+,,,,,,,turchi,Turchit,,,,,,,,,,
+,,,,,,,turonis,Turonis,,,,,,,,,,
+,,,,,,,turris in sardinia,Turris,,,,,,,,,,
+,,,,,,,tuscia,Tuscia,,,,,,,,,,
+,,,,,,,tussa,Tussa,,,,,,,,,,
+,,,,,,,tyatira c.,Tyatira,,,,,,,,,,
+,,,,,,,tiberias,Tyberias,,,,,,,,,,
+,,,,,,,Tiberis fl.,Tyberis,,,,,,,,,,
+,,,,,,,tybut,Tybut,,,,,,,,,,
+,,,,,,,tycinum,Tycinum,,,,,,,,,,
+,,,,,,,tigris r.,Tygris,,,,,,,,,,
+,,,,,,,tigris fl.,Tygris,,,,,,,,,,
+,,,,,,,tyle,Tyle,,,,,,,,,,
+,,,,,,,tylos,Tylos,,,,,,,,,,
+,,,,,,,tyrenum mare,Tyrrenum,,,,,,,,,,
+,,,,,,,tyrus,Tyrus,,,,,,,,,,
+,,,,,,,ulbienses,Ulbienses,,,,,,,,,,
+,,,,,,,ulca,Ulca,,,,,,,,,,
+,,,,,,,umbria,Umbria,,,,,,,,,,
+,,,,,,,unicornes,Unicornes,,,,,,,,,,
+,,,,,,,ursi,Ursi,,,,,,,,,,
+,,,,,,,valencia,Valentia,,,,,,,,,,
+,,,,,,,valeria,Valeria,,,,,,,,,,
+,,,,,,,varunna,Varunna,,,,,,,,,,
+,,,,,,,velabri,Velabri,,,,,,,,,,
+,,,,,,,venetia,Venetia,,,,,,,,,,
+,,,,,,,venetia,Venetia,,,,,,,,,,
+,,,,,,,vensura,Vensura,,,,,,,,,,
+,,,,,,,veredunus,Veredunus,,,,,,,,,,
+,,,,,,,verona,Verona,,,,,,,,,,
+,,,,,,,vesulus m.,Vesulus,,,,,,,,,,
+,,,,,,,vicenus,Vicenus,,,,,,,,,,
+,,,,,,,vienna,Vienna,,,,,,,,,,
+,,,,,,,vincentia,Vincentia,,,,,,,,,,
+,,,,,,,vulcano i.,Vulcanie,,,,,,,,,,
+,,,,,,,wandalia r.,Wandala,,,,,,,,,,
+,,,,,,,wandali g.,Wandali,,,,,,,,,,
+,,,,,,,warmatia,Warmatia,,,,,,,,,,
+,,,,,,,waconia,Wasconia,,,,,,,,,,
+,,,,,,,icaria i.,Ycaria,,,,,,,,,,
+,,,,,,,icarium mare,Ycarium,,,,,,,,,,
+,,,,,,,idri marini,Ydri marini,,,,,,,,,,
+,,,,,,,himantipodes,Ymantipodes,,,,,,,,,,
+,,,,,,,inachus fl.,Ynacus,,,,,,,,,,
+,,,,,,,ipodes,Ypodes,,,,,,,,,,
+,,,,,,,hippo r.,Ypone Regius,,,,,,,,,,
+,,,,,,,hipotami,Ypotami,,,,,,,,,,
+,,,,,,,isara f,Ysara,,,,,,,,,,
+,,,,,,,isauria,Ysauria,,,,,,,,,,
+,,,,,,,zeugis r.,Zeugis,,,,,,,,,,
+,,,,,,,zimus,Zimus,,,,,,,,,,
+,,,,,,,zmirna,Zmirna,,,,,,,,,,
+,,,,,,,subsolanus v.,subsolanus,,,,,,,,,,
+,,,,,,,wulturnus v.,wulturnus,,,,,,,,,,
+,,,,,,,eurus v.,eurus,,,,,,,,,,
+,,,,,,,auster v.,auster,,,,,,,,,,
+,,,,,,,zephirus v.,zephirus,,,,,,,,,,
+,,,,,,,chorus v.,chorus,,,,,,,,,,
+,,,,,,,septentrio v.,septentrio,,,,,,,,,,
+,,,,,,,circius v.,circius,,,,,,,,,,
+,,,,,,,boreus v.,boreas,,,,,,,,,,
+,,,,,,,euroauster v.,euroauster,,,,,,,,,,
+,,,,,,,austerafricus v.,austroafricus,,,,,,,,,,
+,,,,,,,africus v.,africus,,,,,,,,,,
