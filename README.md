@@ -30,7 +30,7 @@ The dataset currently contains the following *mappamundi:*
 - The Munich Isidore Map  
 *Citation: Bayerische Statsbibliotek, Clm 10058, fol. 154v*
 - The Cotton Map  
-*Citation: British Library, Cotton Tiberius B v, fol. 56*
+*Citation: British Library, Cotton Tiberius B v, fol. 56r*
 - The Higden Royal 14C IX Map  
 *Citation: British Library, Royal 14.C IX, ff. 1v-2r*
 - Hugh of St. Victor's *Chronicon* Map   
