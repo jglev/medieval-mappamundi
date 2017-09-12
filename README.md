@@ -1,4 +1,4 @@
-# The Psalter Maps, and other medieval mappamundi, transcribed and normalized
+# Toponyms in Medieval Mappamundi
 
 ## Current maintainers
 
