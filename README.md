@@ -2,7 +2,7 @@
 
 ## Current maintainers
 
-This dataset and respository is currently maintained by Heather G. Wacha <wacha2@wisc.edu> and Jacob G. Levernier <jlevern@upenn.edu>.
+This dataset and repository is currently maintained by Heather G. Wacha <wacha2@wisc.edu> and Jacob G. Levernier <jlevern@upenn.edu>.
 
 ## Contributors
 
@@ -11,11 +11,22 @@ Initial contributors:
 -->
 
 - Heather G. Wacha: medieval domain expert who compiled and normalized the data
-- Jacob G. Levernier: provided data management and data schema advice, and managed data pre-processing
+- Jacob G. Levernier: provided data management and data schema advice, and managed data processing.
 
 ## Contents
 
+The dataset currently contains the following *mappamundi:*
 
+\[Full citations will be added soon.]
+
+- The Psalter Pictorial Map
+- The Psalter List Map
+- Hugh of St. Victor's *Descriptio Mappamundi*
+- Lambert de Saint-Omer's Map(s)
+- The Munich Isidore Map
+- The Cotton Map (BL, Cotton B v)
+- The Higden Royal 14C IX Map
+- Hugh of St. Victor's *Chronicon* Map 
 
 ## Using this dataset
 
@@ -23,11 +34,11 @@ Initial contributors:
 
 Please see the `LICENSE.txt` file for license information (i.e., the conditions under which you may reuse this dataset). In summary, we have released this dataset for others (especially researchers) to use freely, *provided the dataset is cited (see below) and any changes to it are shared back with the research community (preferably through this repository).*
 
-Please see the `CITATION.txt` file for an example citation to use for this datset. That file also contains information on how to refer to different "versions" of the dataset going forward.
+Please see the `CITATION.txt` file for an example citation to use for this dataset. That file also contains information on how to refer to different "versions" of the dataset going forward.
 
 ### Understanding and processing the dataset
 
-After the first column, each column of the dataset represents one reading of one map. Currently, each map is represented across two columns. Rows are unimportant in the dataset, except that, within each map, a row contains variations on the same toponym from that map, across its two columns in the datset:
+After the first column, each column of the dataset represents one reading of one map. Currently, each map is represented across two columns. Rows are unimportant in the dataset, except that, within each map, a row contains variations on the same toponym from that map, across its two columns in the dataset:
 
 1. The **`Diplomatic_Reading`** column contains an exact transcription of the contents of the map.
 1. The **`Normalized_Reading`** column contains a normalized version of the `Diplomatic_Reading` column. See [below](#our-approach-to-normalizing "Our approach to normalizing") for detail on our approach to normalizing these data.
