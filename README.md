@@ -57,9 +57,7 @@ The `Extras` directory contains an example script written in R for transforming 
 
 \[We will be adding this soon.]
 
-### Contributing to this dataset
-
-## Contributing to this Repository
+## Contributing to this dataset and repository
 
 We welcome contributions to this dataset!
 
