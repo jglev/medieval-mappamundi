@@ -1,4 +1,4 @@
-# Toponyms in Medieval Mappamundi
+# Toponym Sets from Medieval Mappamundi
 
 ## Current maintainers
 
