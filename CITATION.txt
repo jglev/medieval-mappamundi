@@ -1,6 +1,6 @@
 When citing this dataset, please use the following (or its equivalent in your citation format of choice):
  
-Wacha, Heather G., and Jacob G. Levernier. (2017). The Psalter Maps, and other medieval mappamundi, transcribed and normalized ({Dataset version number*}) [Data file]. Retrieved from https://www.github.com/publicus/medieval_mappamundi_normalized. {Notes*.}
+Wacha, Heather G., and Jacob G. Levernier. (2017). Toponym Sets for Medieval Mappamundi, transcribed and normalized ({Dataset version number*}) [Data file]. Retrieved from https://www.github.com/publicus/medieval_mappamundi_normalized. {Notes*.}
 
 *{Dataset version number}: To refer to the most recent "version" of the datset that you are using, please use the contents of the file "Mappamundi_Project_Dataset_Current_Version_Hash_OVERWRITTEN_WITH_EACH_COMMIT.txt", which is included in the repository. If you have modified the dataset, you can update this number by doing a "Git commit" on the dataset file.
 
