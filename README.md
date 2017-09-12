@@ -24,7 +24,7 @@ The dataset currently contains the following *mappamundi:*
 - The Psalter List Map  
 *Citation: British Library, Add. MS 28681, fol. 9v*
 - Hugh of St. Victor's *Descriptio Mappamundi*  
-*Citation: Gautier Dalché, Patrick. *La «Descriptio mappe mundi» de Hugues de Saint-Victor.* Paris, Études Augustiniennes, 1988.*
+*Citation: Gautier Dalché, Patrick. *La «Descriptio mappamundi» de Hugues de Saint-Victor.* Paris, Études Augustiniennes, 1988.*
 - Lambert de Saint-Omer's Map(s)  
 *Citation: Ghent, Ghent University, MS 92, f. 241r and Wolfenbüttel, Herzog Augustbibliothek Ms. Gudeanus lat. 1., fol. 69v*
 - The Munich Isidore Map  
