@@ -2,7 +2,7 @@
 
 ## Current maintainers
 
-This dataset and repository is currently maintained by Heather G. Wacha <wacha2@wisc.edu> and Jacob G. Levernier <jlevern@upenn.edu>.
+This dataset and repository is currently maintained by Heather G. Wacha (<wacha2@wisc.edu>) and Jacob G. Levernier (<jlevern@upenn.edu>).
 
 ## Contributors
 
