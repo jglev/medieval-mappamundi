@@ -4,4 +4,4 @@ Wacha, Heather G., and Jacob G. Levernier. (2017). Toponym Sets for Medieval Map
 
 *{Dataset version number}: To refer to the most recent "version" of the datset that you are using, please use the contents of the file "Mappamundi_Project_Dataset_Current_Version_Hash_OVERWRITTEN_WITH_EACH_COMMIT.txt", which is included in the repository. If you have modified the dataset, you can update this number by doing a "Git commit" on the dataset file.
 
-*{Notes}: If you have modified the dataset and have not updated the Dataset version number above, please include a brief note in your citation about what changes you made, and where your changes can be found by other researchers. (If you do modify the dataset, you are expected to share your changes, under the terms of the dataset's license).
+*{Notes}: If you have modified the dataset and have not updated the dataset version number above, please include a brief note in your citation about what changes you made, and where your changes can be found by other researchers. (If you do modify the dataset, you are expected to share your changes, under the terms of the dataset's license.)
