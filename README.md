@@ -28,9 +28,9 @@ The dataset currently contains the following *mappamundi:*
 - Lambert de Saint-Omer's Map(s)  
 *Citation: Ghent, Ghent University, MS 92*
 - The Munich Isidore Map  
-*Citation: Bayerische Statsbibliotek, Clm 10058, fol.154v*
+*Citation: Bayerische Statsbibliotek, Clm 10058, fol. 154v*
 - The Cotton Map  
-*Citation: BL, Cotton B v*
+*Citation: BL, Cotton Tiberius B v, fol. 56*
 - The Higden Royal 14C IX Map  
 *Citation: BL Royal 14.C IX, ff. 1v-2r*
 - Hugh of St. Victor's *Chronicon* Map   
