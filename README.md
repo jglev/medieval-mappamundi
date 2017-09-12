@@ -66,10 +66,9 @@ We welcome contributions to this dataset!
 
 If you would like to contribute to this repository, please follow these steps:
 
-1. 
-  1. If you feel comfortable using Git:
+1. If you feel comfortable using Git:
     1. Make a fork of this repository (from this repository's page on GitHub, click "Fork").
     1. Create a single commit that contains all of the changes that you would like to share (either by "squashing" your commits (see [here](http://stackoverflow.com/a/5189600 'StackOverflow: Squash my last X commits together using Git'), for example), or by just copying your altered files into a fresh copy of this repository).
     1. Make a pull request through GitHub (from your copy of the repository in GitHub, click "New Pull Request").
-  1. If you do not feel comfortable using Git: Send an email to the current repository maintainers listed [above](#current-maintainers 'Current maintainers'); we will work together to get your changes incorporated, and will add you to the [list of contributors](#contributors "List of contributors") in this Readme. We will also add you (for any affected versions of the dataset) to the example citation in the `CITATION.txt` file.
+1. If you do not feel comfortable using Git: Send an email to the current repository maintainers listed [above](#current-maintainers 'Current maintainers'); we will work together to get your changes incorporated, and will add you to the [list of contributors](#contributors "List of contributors") in this Readme. We will also add you (for any affected versions of the dataset) to the example citation in the `CITATION.txt` file.
 
