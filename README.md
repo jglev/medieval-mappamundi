@@ -50,7 +50,7 @@ After the first column, each column of the dataset represents one reading of one
 1. The **`Diplomatic_Reading`** column contains an exact transcription of the contents of the map.
 1. The **`Normalized_Reading`** column contains a normalized version of the `Diplomatic_Reading` column. See [below](#our-approach-to-normalizing "Our approach to normalizing") for detail on our approach to normalizing these data.
 
-The `Extras` directory contains an example script written in R for transforming the dataset into a toponym-to-map "edge list" / ["adjacency list"](https://en.wikipedia.org/wiki/Adjacency_list "Wikipedia: 'Adjacency List'"), to facilitate network analyses of these data. This script also facilitates creating an alphabetized text file of all unique toponyms across all maps, to facilitate deduplication (e.g., looking for mis-spelled, etc. toponyms).
+The `Extras` directory contains an example script written in R for transforming the dataset into a toponym-to-map "edge list" / ["adjacency list"](https://en.wikipedia.org/wiki/Adjacency_list "Wikipedia: 'Adjacency List'"), to facilitate network analyses of these data. This script also facilitates creating an alphabetized text file of all unique toponyms across all maps, to facilitate deduplication (e.g., looking for variant spellings of the same toponym, etc.).
 
 ### Our approach to normalizing
 
@@ -62,7 +62,7 @@ The `Extras` directory contains an example script written in R for transforming 
 
 We welcome contributions to this dataset!
 
-**We also welcome contributions in documentation** -- if there are things that you had to work to understand (for example, how to even download these files in the first place), we welcome additional text for a Wiki that we can attach to this repository.
+**We also welcome contributions concerning documentation** -- if there are things that you had to work to understand (for example, how to even download these files in the first place), we welcome additional text for a Wiki that we can attach to this repository.
 
 If you would like to contribute to this repository, please follow these steps:
 
