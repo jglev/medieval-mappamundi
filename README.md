@@ -13,6 +13,15 @@ Initial contributors:
 - Heather G. Wacha: medieval domain expert who compiled and normalized the data
 - Jacob G. Levernier: provided data management and data schema advice, and managed data processing.
 
+## Additional Acknowledgements
+
+We are grateful for the intellectually supportive environments fostered by the following organzations and individuals:
+
+- The Council on Library and Information Resources (CLIR)
+- Martin Foys, Professor of English, University of Wisconsin, Madison
+- *Digital Mappa*
+- The University of Pennsylvania Libraries
+
 ## Contents
 
 The dataset currently contains the following *mappamundi:*
