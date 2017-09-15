@@ -26,8 +26,6 @@ We are grateful for the intellectually supportive environments fostered by the f
 
 The dataset currently contains the following *mappamundi:*
 
-\[Full citations will be added soon.]
-
 - The Psalter Pictorial Map  
 *Citation: British Library, Add. MS 28681, fol. 9r*
 - The Psalter List Map  
