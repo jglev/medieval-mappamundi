@@ -42,9 +42,9 @@ The dataset currently contains the following *mappamundi:*
 *Citation: British Library, Royal 14.C IX, ff. 1v-2r*
 - Hugh of St. Victor's *Chronicon* Map   
 *Citation: Baron, Roger. "Hugh of Saint-Victor, Lexicographe." Cultura Neolatina 16 (1956): 109-145.*
-- Sawley Map CCCC 66, Parker Library, p. 2 
+- Sawley Map  
 *Citation: Cambridge Corpus Christi College, Parker Library, 66, p. 2*
-- Hereford Map 
+- Hereford Map  
 *Citation: Hereford, Hereford Cathedral*
 
 ## Using this dataset
