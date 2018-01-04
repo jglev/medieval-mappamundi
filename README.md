@@ -26,22 +26,26 @@ We are grateful for the intellectually supportive environments fostered by the f
 
 The dataset currently contains the following *mappamundi:*
 
-- The Psalter Pictorial Map  
+- Psalter Pictorial Map  
 *Citation: British Library, Add. MS 28681, fol. 9r*
-- The Psalter List Map  
+- Psalter List Map  
 *Citation: British Library, Add. MS 28681, fol. 9v*
 - Hugh of St. Victor's *Descriptio Mappamundi*  
 *Citation: Gautier Dalché, Patrick. *La «Descriptio mappamundi» de Hugues de Saint-Victor.* Paris, Études Augustiniennes, 1988.*
 - Lambert de Saint-Omer's Map(s)  
 *Citation: Ghent, Ghent University, MS 92, f. 241r and Wolfenbüttel, Herzog Augustbibliothek Ms. Gudeanus lat. 1., fol. 69v*
-- The Munich Isidore Map  
+- Munich Isidore Map  
 *Citation: Bayerische Statsbibliotek, Clm 10058, fol. 154v*
-- The Cotton Map  
+- Cotton Map  
 *Citation: British Library, Cotton Tiberius B v, fol. 56r*
-- The Higden Royal 14C IX Map  
+- Higden Royal 14C IX Map  
 *Citation: British Library, Royal 14.C IX, ff. 1v-2r*
 - Hugh of St. Victor's *Chronicon* Map   
 *Citation: Baron, Roger. "Hugh of Saint-Victor, Lexicographe." Cultura Neolatina 16 (1956): 109-145.*
+- Sawley Map CCCC 66, Parker Library, p. 2
+*Citation: Cambridge Corpus Christi College, Parker Library, 66, p. 2*
+- Hereford Map
+*Citation: Hereford, Hereford Cathedral*
 
 ## Using this dataset
 
