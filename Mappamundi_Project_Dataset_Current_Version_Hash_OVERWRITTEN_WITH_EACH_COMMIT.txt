@@ -2,4 +2,4 @@
 
 What is below is the first five characters of the 'sha256sum' hash of 'Mappamundi_Project_Dataset.csv'. It can be used as a type of version number for the dataset.
 
-25fb7
+14f2d
