@@ -32,6 +32,7 @@ install_or_load(
   "data.table",
   "dplyr",
   "magrittr",
+  "knitr",
   "stringr",
   "readr"
 )
@@ -46,10 +47,12 @@ dataset <- readr::read_csv(
   "Mappamundi_Project_Dataset.csv",
   na = ""
 ) %>% 
-  dplyr::select(-`Map Name`) %>%  # Drop the 'Map Name' column
-  magrittr::set_colnames(dataset %>% names() %>% tolower())  # Lowercase all
+  dplyr::select(-`Map Name`)  # Drop the 'Map Name' column
 
-                                                             # column names
+# Lowercase all column names:
+dataset %<>% magrittr::set_colnames(
+  dataset %>% names() %>% tolower()
+)
 
 # Tidy the dataset --------------------------------------------------------
 
@@ -83,6 +86,10 @@ levels(dataset_tidy$map_name) = map_names
 
 # Optionally, view the tidied dataset:
 # dataset_tidy %>% View()
+
+# Or view the first 2 toponyms for each map:
+# dataset_tidy %>% group_by(map_name) %>% top_n(2) %>%
+#   knitr::kable(format = 'markdown')
 
 # Optionally, write a CSV of the tidy dataset:
 # By default, this will write to the current Working Directory, which you can

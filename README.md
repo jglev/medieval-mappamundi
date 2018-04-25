@@ -62,6 +62,35 @@ After the first column, each column of the dataset represents one reading of one
 1. The **`Diplomatic_Reading`** column contains an exact transcription of the contents of the map.
 1. The **`Normalized_Reading`** column contains a normalized version of the `Diplomatic_Reading` column. See [below](#our-approach-to-normalizing "Our approach to normalizing") for detail on our approach to normalizing these data.
 
+#### "Tidy" data
+
+We chose this data format to ease adding data to the dataset by a researcher using a spreadsheet program such as Microsoft Excel or LibreOffice Calc. However, this format is not particularly useful for some types of analysis. Thus, the script `Create_Tidy_Dataset.R` will transform the dataset into a ["tidy" format](http://r4ds.had.co.nz/tidy-data.html), which looks like this:
+
+|map_name                     |normalized                   |diplomatic                   |
+|:----------------------------|:----------------------------|:----------------------------|
+|psalter_pictorial_map        |transitus hebreorum          |[Transitus Israelis]         |
+|psalter_pictorial_map        |trogodite                    |[Trogodite]                  |
+|psalter_list_map             |italia                       |Ytalia                       |
+|psalter_list_map             |zeugis r.                    |Zeugi                        |
+|munich_isidore_map           |wulturnus v.                 |uulturnus                    |
+|munich_isidore_map           |safris                       |uicus Safrim                 |
+|descriptio_hsv_map           |wulturnus v.                 |wulturnus                    |
+|descriptio_hsv_map           |zephirus v.                  |zephirus                     |
+|lambert_de_saint_omer_map(s) |ponticum mare                |mare ponticum                |
+|lambert_de_saint_omer_map(s) |zona fervida inhabilitabilis |Zona fervida inhabilitabilis |
+|cotton_map                   |sicilia                      |[sicilia]                    |
+|cotton_map                   |transitus hebreorum          |[transitur hebreorum]        |
+|bl_royal_14.c_ix_map         |italia                       |ytalia                       |
+|bl_royal_14.c_ix_map         |italicus s.                  |ytalicus sinus               |
+|chronicon_hsv_map            |zeugis r.                    |zeugis                       |
+|chronicon_hsv_map            |vienne                       |vienna                       |
+|sawley_map                   |zabulon                      |zabulon                      |
+|sawley_map                   |isachar                      |ysachar                      |
+|hereford_map                 |zazintus i.                  |zazintus                     |
+|hereford_map                 |ylis fl.                     | Fluuius Ylis                |
+
+#### Additional script
+
 The `Extras` directory contains an example script written in R for transforming the dataset into a toponym-to-map "edge list" / ["adjacency list"](https://en.wikipedia.org/wiki/Adjacency_list "Wikipedia: 'Adjacency List'"), to facilitate network analyses of these data. This script also facilitates creating an alphabetized text file of all unique toponyms across all maps, to facilitate deduplication (e.g., looking for variant spellings of the same toponym, etc.).
 
 ### Our approach to normalizing
