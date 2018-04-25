@@ -47,12 +47,9 @@ dataset <- readr::read_csv(
   "Mappamundi_Project_Dataset.csv",
   na = ""
 ) %>% 
-  dplyr::select(-`Map Name`)  # Drop the 'Map Name' column
-
-# Lowercase all column names:
-dataset %<>% magrittr::set_colnames(
-  dataset %>% names() %>% tolower()
-)
+  dplyr::select(-`Map Name`) %>%  # Drop the 'Map Name' column
+  magrittr::set_colnames(dataset %>% names() %>% tolower())  # Lowercase all
+                                                             # column names
 
 # Tidy the dataset --------------------------------------------------------
 

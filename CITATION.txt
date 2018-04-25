@@ -2,6 +2,6 @@ When citing this dataset, please use the following (or its equivalent in your ci
  
 Wacha, Heather G., and Jacob G. Levernier. (2017). Toponym Sets for Medieval Mappamundi, transcribed and normalized ({Dataset version number*}) [Data file]. Retrieved from https://www.github.com/publicus/medieval_mappamundi_normalized. {Notes*.}
 
-*{Dataset version number}: To refer to the most recent "version" of the datset that you are using, please use the contents of the file "Mappamundi_Project_Dataset_Current_Version_Hash_OVERWRITTEN_WITH_EACH_COMMIT.txt", which is included in the repository. If you have modified the dataset, you can update this number by doing a "Git commit" on the dataset file.
+*{Dataset version number}: To refer to the most recent "version" of the datset that you are using, please use the Git commit identifier for the commit you are using (on the GitHub.com page for this repository, for example, you can see this printed next to the phrase "Latest commit"). If you are not sure about this, please feel free to contact one of the maintainers to ask for assistance!
 
 *{Notes}: If you have modified the dataset and have not updated the dataset version number above, please include a brief note in your citation about what changes you made, and where your changes can be found by other researchers. (If you do modify the dataset, you are expected to share your changes, under the terms of the dataset's license.)
