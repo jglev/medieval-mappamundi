@@ -47,9 +47,12 @@ dataset <- readr::read_csv(
   "Mappamundi_Project_Dataset.csv",
   na = ""
 ) %>% 
-  dplyr::select(-`Map Name`) %>%  # Drop the 'Map Name' column
-  magrittr::set_colnames(dataset %>% names() %>% tolower())  # Lowercase all
-                                                             # column names
+  dplyr::select(-`Map Name`)  # Drop the 'Map Name' column
+  
+dataset <- magrittr::set_colnames(
+  dataset,
+  dataset %>% names() %>% tolower() # Lowercase all column names
+)
 
 # Tidy the dataset --------------------------------------------------------
 
@@ -92,8 +95,8 @@ levels(dataset_tidy$map_name) = map_names
 # By default, this will write to the current Working Directory, which you can
 # see by using the command:
 # getwd()
-write_csv(
-  dataset_tidy,
-  path = 'Mappamundi_Project_Dataset_Tidy.csv',
-  na = ''
-)
+# write_csv(
+#   dataset_tidy,
+#   path = 'Mappamundi_Project_Dataset_Tidy.csv',
+#   na = ''
+# )
