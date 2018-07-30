@@ -4,12 +4,7 @@
 # Version: 0.1.0
 # Released under a BSD 3-Clause License (https://opensource.org/licenses/BSD-3-Clause).
 
-# Clear R's memory, setting a fresh foundation from which to run this script.
-rm(list=ls())
-
-#################
-# CONFIGURATION SETTINGS -- EDIT THESE
-#################
+# Settings ----------------------------------------------------------------
 
 # Working directory: The directory on your computer in which the data file can be found, and into which you would like to save the output from this script. Include a trailing slash ('/') at the end:
 
@@ -28,23 +23,15 @@ fileNameToWriteOutputTo <- "2017-08-27-1404_Mappamundi_Project_Full_Dataset_Edge
 
 filename_to_write_unique_names_to_check_to <- "Unique_Values_to_Look_Over_for_Duplicates.txt"
 
-#################
-# END CONFIGURATION SETTINGS
-#################
-
-
-
-#################
-# PROCESSING STEPS -- DO NOT EDIT THESE
-#################
+# Processing steps --------------------------------------------------------
 
 # Set the working directory
 setwd(workingDirectoryToSet)
 
-dataSetToParse <- read.csv(dataFileName, header = TRUE, sep=",", stringsAsFactors = FALSE)
+dataSetToParse <- read.csv(dataFileName, header = TRUE, sep = ",", stringsAsFactors = FALSE)
 
 # If we've been asked to transpose the dataset, do so:
-if(transpose_dataset_first == TRUE){
+if (transpose_dataset_first == TRUE) {
 	dataSetToParse <- as.data.frame(t(dataSetToParse))
 	dataSetToParse <- cbind(rownames(dataSetToParse), dataSetToParse)
 
@@ -113,8 +100,3 @@ write.table(
 	row.names = TRUE,
 	quote = FALSE
 )
-
-
-#################
-# END PROCESSING STEPS
-#################

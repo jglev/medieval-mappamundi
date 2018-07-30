@@ -1,0 +1,179 @@
+PackratFormat: 1.4
+PackratVersion: 0.4.8.1
+RVersion: 3.4.2
+Repos: CRAN=https://cran.rstudio.com/
+
+Package: BH
+Source: CRAN
+Version: 1.66.0-1
+Hash: 4cc8883584b955ed01f38f68bc03af6d
+
+Package: R6
+Source: CRAN
+Version: 2.2.2
+Hash: b2366cd9d2f3851a5704b4e192b985c2
+
+Package: Rcpp
+Source: CRAN
+Version: 0.12.17
+Hash: d2eff4634ccd7aca030c540ad805ac4a
+
+Package: assertthat
+Source: CRAN
+Version: 0.2.0
+Hash: e8805df54c65ac96d50235c44a82615c
+
+Package: bindr
+Source: CRAN
+Version: 0.1.1
+Hash: 76578c5f543a6ecbc1365d6445f9ebf7
+
+Package: bindrcpp
+Source: CRAN
+Version: 0.2.2
+Hash: 557f908819df9f67af5dc93f501610ab
+Requires: Rcpp, bindr, plogr
+
+Package: cli
+Source: CRAN
+Version: 1.0.0
+Hash: f4239f89feb7ddc65821e4514e9734ae
+Requires: assertthat, crayon
+
+Package: crayon
+Source: CRAN
+Version: 1.3.4
+Hash: ff2840dd9b0d563fc80377a5a45510cd
+
+Package: data.table
+Source: CRAN
+Version: 1.11.2
+Hash: d314a0c785ee165e967aa43d30119438
+
+Package: dplyr
+Source: CRAN
+Version: 0.7.5
+Hash: cf9a7bcb0b305a27d6250d68cb1ddcdc
+Requires: BH, R6, Rcpp, assertthat, bindrcpp, glue, magrittr,
+    pkgconfig, plogr, rlang, tibble, tidyselect
+
+Package: evaluate
+Source: CRAN
+Version: 0.10.1
+Hash: 54d95f4ec6d0300100413ed0127d89ae
+Requires: stringr
+
+Package: forcats
+Source: CRAN
+Version: 0.3.0
+Hash: 770f3834b97a2c429bdecb7a5f27eb25
+Requires: magrittr, rlang, tibble
+
+Package: glue
+Source: CRAN
+Version: 1.2.0
+Hash: 381e42baedecc633c0e547a0c7ca9de7
+
+Package: highr
+Source: CRAN
+Version: 0.6
+Hash: aa3d5b7912b5fed4b546ed5cd2a1760b
+
+Package: hms
+Source: CRAN
+Version: 0.4.2
+Hash: b4096a4f6a6736138e9a825c2baaacf0
+Requires: pkgconfig, rlang
+
+Package: knitr
+Source: CRAN
+Version: 1.20
+Hash: 9c6b215d1d02b97586c8232e94533e6a
+Requires: evaluate, highr, markdown, stringr, yaml
+
+Package: magrittr
+Source: CRAN
+Version: 1.5
+Hash: bdc4d48c3135e8f3b399536ddf160df4
+
+Package: markdown
+Source: CRAN
+Version: 0.8
+Hash: 045d7c594d503b41f1c28946d076c8aa
+Requires: mime
+
+Package: mime
+Source: CRAN
+Version: 0.5
+Hash: 463550cf44fb6f0a2359368f42eebe62
+
+Package: packrat
+Source: CRAN
+Version: 0.4.8-1
+Hash: 6ad605ba7b4b476d84be6632393f5765
+
+Package: pillar
+Source: CRAN
+Version: 1.1.0
+Hash: 576bf712d620ca2b6ca76ca7b6cb5547
+Requires: cli, crayon, rlang, utf8
+
+Package: pkgconfig
+Source: CRAN
+Version: 2.0.1
+Hash: 0dda4a2654a22b36a715c2b0b6fbacac
+
+Package: plogr
+Source: CRAN
+Version: 0.2.0
+Hash: 81a8008a5e7858552503935f1abe48aa
+
+Package: purrr
+Source: CRAN
+Version: 0.2.5
+Hash: 8b0c16db10c7e20b70cd37779a673a8b
+Requires: magrittr, rlang, tibble
+
+Package: readr
+Source: CRAN
+Version: 1.1.1
+Hash: ca6ad2638b5295fdb97e6bdcfd0f8568
+Requires: BH, R6, Rcpp, hms, tibble
+
+Package: rlang
+Source: CRAN
+Version: 0.2.0
+Hash: 647e2e50a72557d1a770dcd6701e562b
+
+Package: stringi
+Source: CRAN
+Version: 1.2.2
+Hash: 09671b4a90b75927272d2b2ba6c0d6ed
+
+Package: stringr
+Source: CRAN
+Version: 1.3.1
+Hash: 9f417a1d899ed1f080942ab36998e8b5
+Requires: glue, magrittr, stringi
+
+Package: tibble
+Source: CRAN
+Version: 1.4.2
+Hash: 83895360ce4f8d2ce92eee00526b5b0b
+Requires: cli, crayon, pillar, rlang
+
+Package: tidyselect
+Source: CRAN
+Version: 0.2.4
+Hash: e489e97d69b6d23822bb34700b45f45b
+Requires: Rcpp, glue, purrr, rlang
+
+Package: utf8
+Source: CRAN
+Version: 1.1.3
+Hash: a2fe6a996668ee5850b7719f365e831b
+
+Package: yaml
+Source: CRAN
+Version: 2.1.19
+Hash: 6e3d988c25e34c31f668e0ae41dc3259

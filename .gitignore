@@ -1,2 +1,5 @@
 .directory
 .~lock.Mappamundi_Project_Dataset.csv#
+.Rproj.user
+packrat/lib*/
+packrat/src/

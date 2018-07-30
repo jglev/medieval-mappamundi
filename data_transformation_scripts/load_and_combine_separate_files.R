@@ -1,14 +1,20 @@
-library(magrittr)
-library(dplyr)
+# Load packages -----------------------------------------------------------
+
 library(forcats)
+library(dplyr)
 library(knitr)
+library(magrittr)
 library(purrr)
 library(readr)
 library(tools)
 
+# Settings ----------------------------------------------------------------
+
 # This script assumes that the working directory is the map_files
 # directory. In RStudio, you can select this directory by clicking
 # Session -> Set Working Directory -> Choose Directory
+
+# Define file combination function ----------------------------------------
 
 combine_separate_data_files <- function(
   directory = getwd(),

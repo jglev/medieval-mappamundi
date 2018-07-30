@@ -1,6 +1,5 @@
 purrr::map(paste0(tolower(map_names), ".csv"), function(x) {write("", file = x)})
 
-
 write_csv_from_group  = function(data_subset) {
   write_csv(
     data_subset %>% select(-map_name),
