@@ -93,6 +93,34 @@ We chose this data format to ease adding data to the dataset by a researcher usi
 
 These scripts can either create a tidy dataset with a single file for all maps, or a set of tidy datasets, with one file per map.
 
+#### Using the data transformation `R` scripts
+
+##### Installing R and RStudio
+
+- [Install R](https://cran.cnr.berkeley.edu/) (choose the link at the top for your operating system)
+    - If you click Windows, click "base" on the following page.
+    - If you click Mac OS X, click the first link under "Latest Release" (it will look like "R-3.5.0.pkg")
+    - If you click Linux, you probably already have R installed on your system. If not, go through your Operating System’s package manager.
+- [Install RStudio](https://www.rstudio.com/products/rstudio/download/#download) (choose the link at the top for your operating system.)
+
+##### Using the scripts
+
+1. Open RStudio.
+1. Within RStudio, click File --> "Open Project..."
+1. Select `medieval_mappamundi_transformations.Rproj`.
+1. **RStudio will now pause as it installs packages.** This installation process only needs to happen once.
+  1. RStudio will present output as it completes these tasks.
+  1. Some of the installation steps (for example, for the `dplyr` package) may take a minute or more.
+  1. If RStudio offers a `y/n` prompt, type "y" and press Enter.
+  1. **When RStudio is finished, it will print the message, "Packrat bootstrap successfully completed."** Once this happens, R will restart, and you will be able to run any command in the console (for example, at this point, if you type `2+2` next to the `>` prompt in the "Console" pane and press Enter, R should return `4`).
+1. Once RStudio is finished installing packages above:
+    1. **Close RStudio (no need to save `.Rdata` when prompted), then reopen it and open the project again** (following the initial steps above).  
+    Closing and re-opening RStudio will cause RStudio to recognize the packages it installed above to the project directory.
+    1. Within RStudio, open one of the scripts (if this is the first script from this repository you are using, you will need to open `from_untidy_combined_to_tidy_combined.R`).
+    1. **Within RStudio, click "Session" --> "Set Working Directory" --> "To Project Directory"**
+    1. Click "Source" in the top right corner of the RStudio editor pane.
+    1. Check for output in one of the `data/tidy` subdirectories.
+
 ### Our approach to normalizing
 
 \[We will be adding this soon.]
