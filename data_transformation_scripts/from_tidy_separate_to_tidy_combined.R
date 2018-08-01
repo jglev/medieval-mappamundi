@@ -1,3 +1,10 @@
+# Combine a directory of tidy datasets into one file
+# Author: Jacob Levernier and Heather Wacha
+# Year: 2018
+# License: BSD 3-Clause
+
+# For more on 'tidy' data, see http://r4ds.had.co.nz/tidy-data.html.
+
 # Load packages -----------------------------------------------------------
 
 library(forcats)
@@ -8,16 +15,15 @@ library(purrr)
 library(readr)
 library(tools)
 
-# Settings ----------------------------------------------------------------
-
-# This script assumes that the working directory is the map_files
-# directory. In RStudio, you can select this directory by clicking
-# Session -> Set Working Directory -> Choose Directory
-
 # Define file combination function ----------------------------------------
 
+# This assumes that the working directory is set to the base directory of this
+# repository.
+# In RStudio, you can click Session -> Set Working Directory -> 
+# To Project Directory to accomplish this.
+
 combine_separate_data_files <- function(
-  directory = getwd(),
+  directory = file.path('data', 'tidy', 'individual'),
   filename_pattern = '.*csv',
   recursive_search = FALSE
 ) {
@@ -72,8 +78,13 @@ combine_separate_data_files <- function(
 # see by using the command:
 # getwd()
 
-# readr::write_csv(
-#   combine_separate_data_files(),
-#   path = 'Mappamundi_Project_Dataset_Tidy.csv',
-#   na = ''
-# )
+readr::write_csv(
+  combine_separate_data_files(),
+  path = file.path(
+    'data',
+    'tidy',
+    'combined',
+    'mappamundi_combined_tidy.csv'
+  ),
+  na = ''
+)
