@@ -55,7 +55,7 @@ Please see the `LICENSE.txt` file for license information (i.e., the conditions 
 
 The DOI for this repository will automatically update every time there is a new "Release" in GitHub. You can view the [list of Releases](https://github.com/publicus/medieval-mappamundi/releases).
 
-The DOI for the [latest release](https://github.com/publicus/medieval-mappamundi/releases/latest) of this dataset can be found at [Zenodo](https://zenodo.org/account/settings/github/repository/publicus/medieval-mappamundi).
+The DOI for the [latest release](https://github.com/publicus/medieval-mappamundi/releases/latest) of this dataset can be found at [Zenodo](https://zenodo.org/record/1325920).
 
 ### Understanding and processing the dataset
 
