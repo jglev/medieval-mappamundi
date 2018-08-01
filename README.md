@@ -53,9 +53,9 @@ The dataset currently contains the following *mappamundi:*
 
 Please see the `LICENSE.txt` file for license information (i.e., the conditions under which you may reuse this dataset). In summary, we have released this dataset for others (especially researchers) to use freely, *provided the dataset is cited (see below) and any changes to it are shared back with the research community (preferably through this repository).*
 
-The list of past releases can be found [at this link](https://github.com/publicus/medieval-mappamundi/releases).
+The DOI for this repository will automatically update every time there is a new "Release" in GitHub. You can view the [list of Releases](https://github.com/publicus/medieval-mappamundi/releases).
 
-The DOI for the latest release of this dataset is <img data-toggle="modal" data-target="[data-modal='10.5281-zenodo.1039873']" src="https://zenodo.org/badge/103283528.svg" alt="10.5281/zenodo.1039873">.
+The DOI for the [latest release](https://github.com/publicus/medieval-mappamundi/releases/latest) of this dataset is <img data-toggle="modal" data-target="[data-modal='10.5281-zenodo.1039873']" src="https://zenodo.org/badge/103283528.svg" alt="10.5281/zenodo.1039873">.
 
 ### Understanding and processing the dataset
 
