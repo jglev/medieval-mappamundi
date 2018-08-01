@@ -53,7 +53,9 @@ The dataset currently contains the following *mappamundi:*
 
 Please see the `LICENSE.txt` file for license information (i.e., the conditions under which you may reuse this dataset). In summary, we have released this dataset for others (especially researchers) to use freely, *provided the dataset is cited (see below) and any changes to it are shared back with the research community (preferably through this repository).*
 
-Please see the `CITATION.txt` file for an example citation to use for this dataset. That file also contains information on how to refer to different "versions" of the dataset going forward.
+The list of past releases can be found [at this link](https://github.com/publicus/medieval-mappamundi/releases).
+
+The DOI for the latest release of this dataset is <img data-toggle="modal" data-target="[data-modal='10.5281-zenodo.1039873']" src="https://zenodo.org/badge/103283528.svg" alt="10.5281/zenodo.1039873">.
 
 ### Understanding and processing the dataset
 
@@ -64,7 +66,7 @@ After the first column, each column of the dataset represents one reading of one
 
 #### "Tidy" data
 
-We chose this data format to ease adding data to the dataset by a researcher using a spreadsheet program such as Microsoft Excel or LibreOffice Calc. However, this format is not particularly useful for some types of analysis. Thus, the script `Create_Tidy_Dataset.R` will transform the dataset into a ["tidy" format](http://r4ds.had.co.nz/tidy-data.html), which looks like this:
+We chose this data format to ease adding data to the dataset by a researcher using a spreadsheet program such as Microsoft Excel or LibreOffice Calc. However, this format is not particularly useful for some types of analysis. Thus, the scripts in `data_transformation_scripts` will transform the dataset into a ["tidy" format](http://r4ds.had.co.nz/tidy-data.html), which looks like this:
 
 |map_name                     |normalized                   |diplomatic                   |
 |:----------------------------|:----------------------------|:----------------------------|
@@ -89,9 +91,7 @@ We chose this data format to ease adding data to the dataset by a researcher usi
 |hereford_map                 |zazintus i.                  |zazintus                     |
 |hereford_map                 |ylis fl.                     | Fluuius Ylis                |
 
-#### Additional script
-
-The `Extras` directory contains an example script written in R for transforming the dataset into a toponym-to-map "edge list" / ["adjacency list"](https://en.wikipedia.org/wiki/Adjacency_list "Wikipedia: 'Adjacency List'"), to facilitate network analyses of these data. This script also facilitates creating an alphabetized text file of all unique toponyms across all maps, to facilitate deduplication (e.g., looking for variant spellings of the same toponym, etc.).
+These scripts can either create a tidy dataset with a single file for all maps, or a set of tidy datasets, with one file per map.
 
 ### Our approach to normalizing
 
