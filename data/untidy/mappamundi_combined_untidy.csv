@@ -1,5 +1,5 @@
-Map Name,psalter_pictorial_map_normalized_reading,Psalter_Pictorial_Map_Diplomatic_Reading,psalter_list_map_normalized_reading,Psalter_List_Map_Diplomatic_Reading,munich_isidore_map_normalized_reading (munich clm 10058 f. 154v),Munich_Isidore_Map_Diplomatic_Reading (Munich Clm 10058 f. 154v),descriptio_hsv_map_normalized_reading,Descriptio_HSV_Map_Diplomatic_Reading_Index,lambert_de_saint_omer_map(s)_normalized_reading,Lambert_de_Saint_Omer_Map(s)_Diplomatic_Reading,cotton_map_normalized_reading,Cotton_Map_Diplomatic_Reading,bl_royal_14.c_ix_map_normalized_reading,BL_Royal_14.C_IX_Map__Diplomatic_Reading,chronicon_hsv_map_normalized_reading_paris_bn150009,Chronicon_HSV_Map_Diplomatic_Reading,sawley_map_normalized_reading,Sawley_Map_Diplomatic_Reading,hereford_map_normalized_reading,Hereford_Map_Diplomatic_Reading
-Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,abarim m.,Abarim,hispania,Hispania,verona,Verona,cartago in africa,cartago,asia,Asia,pactolus fl.,pactolus,marsop? parandus?,marsop?
+Map Name,Psalter Pictorial Map - Normalized,Psalter Pictorial Map - Diplomatic,Psalter List Map - Normalized,Psalter List Map - Diplomatic,Munich Isidore Map - Normalized,Munich Isidore Map - Diplomatic,HSV Descriptio mappa mundi - Normalized,HSV Descriptio mappa mundi - Diplomatic,LSO Liber Floridus - Normalized,LSO Liber Floridus - Diplomatic,Cotton Map - Normalized,Cotton Map - Diplomatic,BL Royal 14.C IX Higden Map - Normalized,BL Royal 14.C IX Higden Map - Diplomatic,HSV Chronicon - Normalized,HSV Chronicon - Diplomatic,Sawley Map - Normalized,Sawley Map - Diplomatic,Hereford Map - Normalized,Hereford Map - Diplomatic
+,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,abarim m.,Abarim,hispania,Hispania,verona,Verona,cartago in africa,cartago,asia,Asia,pactolus fl.,pactolus,marsop? parandus?,marsop?
 ,amazones g.,Amazones,parthia r.,Parthia,eurus v.,eurus,abidos c.,abidos,hesperia r.,Hesperia,islandia,Island,antipedes g.,Antipedes,europa,Europa,basilicus,basiliscus,chersonesos?,canospatos
 ,albania superior,Albania Superior,media r.,Media,euroauster v.,euroauster,abidos i.,Abidos,lusitania,Lusitania,philistea,Philistea,apulia,apulia,africa,Affrica,are philenorum,are filenorum,sicilia,sicaria
 ,armenia,Armenia ,africa,Affrica,auster v.,auster,abricatina,Abricatina,galicia,Gallicia,nineveh,Ninive,gens istius insule,gens istius insule,india,India,tabor m.,tabor,gasan,gasan
@@ -11,7 +11,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,accon,Arcaron,judea,Judea,aquilo v.,aquilo qui et boreus,adrianopolis,Adrianopolis,aquitania,Aquitania,salerna,Salerna,persepolis,civitas persipolis,tigris fl.,tigrim,pisa,pisa,mecca?,mekesus civitas
 ,cesarea in palestine,Cesarea Palestine,galilea,Galilea,wulturnus v.,uulturnus,adriaticus s.,Adriaticum,narbona c.,Bracata/Narbona,suthbryttas,Suthbryttas,wallia,wallia,mesopotamia,Mesopotamia,neptalim,neptalim,narbonne,narbona
 ,chorazin,Corozaim,samaria r.,Samaria,zephirus v.,favonius qui et zephirus,africa,Africa,wasconia,Gasconia,bethlehem,Betleem,anglia,anglia,chaldea,caldea,aquilo v.,aquilo,hydraotes fl.,fluvius pasma
-,bethsaida,Betheida,palestina,Palestina,favonius v.,favonius qui et zephirus,africa catharginensis,Africa Carthaginensis,burgundia,Burgundia,antiochia,Antiochia,capadocia r.,capadocia,arabia,arabia,alexandria in egyptus c.,alexandria civitas,compostela,compostrinia
+,bethsaida,Betheida,palestina,Palestina,favonius v.,favonius qui et zephirus,africa catharginensis,Africa Carthaginensis,burgundia,Burgundia,antiochia,Antiochia,capadocia r.,capadocia,arabia,arabia,alexandria in egypto c.,alexandria civitas,compostela,compostrinia
 ,tiberias,Thiberiadis,frigia,Frigia,sericus mare,Sericus occeanus,africa minor,Africa Minor,neustria,Neustria,sirtes,Sirtes,thasos?,tyrus,euphrates fl.,eufratem,charibidis,caribidis,cabilla,cabilla
 ,siria,Syria,nicomedia,Nichomedia,scyticus o.,Sciticus occeanus,africa numidiana,Africa Numidiana,flandria,Flandria,ravenna,Ravenna,membriona,menbriona insula,siria,syria,decapolis r.,decapolis regio,circius v.,circius
 ,nineveh,Ninive,albania,Albania,eous o.,Eous occeanus ,aginno,Aginno,morini,Morini,armenia,Armenia,dalmatia,dalmacia,phenicia,phenicia,zabulon,zabulon,rokesburgia,rokesburgia
@@ -30,7 +30,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,persepolis,Peliopolis,thesia,Thesia,tile,Tile insula,are alexandri,Alexandri Are,roma,Roma,evilath,Evilath,sestos c.,cestos insula,iberia,hyberia,media inferior,media inferior,termopile,Termopile
 ,persepolis,Pesiopolis,persepolis,Persepolis,gog et magog,Gog et Magog,castra alexandri,Alexandri Castra,capua,Capua,chaldea,Chaldea,corsica,maior corsica,armenia,armenia,oxus fl.,fl. Oxus,eboracum,Eboracum
 ,jericho,Iericho,edessa,Edessa,tyle,Tilos insula,columpne alexandri,Alexandri Columpne,lavinia,Lavinia,caucasus m.?,Mons,trachias v.,trachias,capadocia r.,cappadocia,bersabee,bersabee,brucii,Brucii
-,bethlehem,Belehem,carras,Carra,crise,Crise insula,alexandria in egyptus c.,Alexandria,jovis m.,Mons Iovis,sclavi g.,Sclavi,galilea,galile,colchos r.,colchos,achaia,achaya,pandea g.,pandea
+,bethlehem,Belehem,carras,Carra,crise,Crise insula,alexandria in egypto c.,Alexandria,jovis m.,Mons Iovis,sclavi g.,Sclavi,galilea,galile,colchos r.,colchos,achaia,achaya,pandea g.,pandea
 ,jerusalem,Ierusalem,philadelphia,Philadelphia,argire,Argire insula,alpes,Alpes,achaia,Achaia,turchi,Turchi,babilon c.,babilonia,asia minor,asia minor,octogora fl.,octorogorra,minutanda,Minutanda
 ,azotus,Azotus,antiochia,Antioch ,ferrea,Ferrea insula,alpes gothice,Alpes Gothice,arcadia,Archadia,bithynia,Bithinia,babilonia r.,babilonia,cilicia,cilicia,mauritania sitifensis,mauritania sitifensis,diospolis,Diospolis
 ,elam,Elam,jerusalem,Jerusalem,stridonis i.,Stridonia,amana,Amana,baioaria,Boioaria,tracia r.,Tracia,libani m.,mons libani,rubrum mare,mare rubrum,armenia,armenia,moesia,Messia
@@ -62,7 +62,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,arbor solis,Arbor Solis,tarsus,Tharsis,gallicum mare,Gallicum mare,araris fl.,Arar,panotii,Pannothi,mesina,Mesina,wulturnus v.,wulturnus,gepidi g.,gepidi,retia maior,retia maior,lidia,lidia
 ,arbor lune,Arbor Lune,azotus,Azotus,liguricus s.,Liguricus sinus,ararat m.,Ararath,taurus m.,Mons Taurus,troia,Troia,oxonium,oxonium,rugi g.,rugi,canopus i.,canopus insula,nevirus,nevirus
 ,turris babilon?,Turris,egyptus,Egypto,gaditanum fretum,Gaditanum fretum,arausica,Arausica,caucasus m.,Mons Caucasus,hiberia,Hiberia,apris i.,apris,bulgari g.,bulgari,hiberis fl.,fl. Hiberus,messana,mesana
-,puteus josep,Puteus Josep,alexandria in egyptus c.,Alexandria,gades,Gades,araxis fl.,Araxis,bactria r.,Bactria,dardania,Dardania,damascus,damascus,hunorum g.,huni vel hungari,india,india,hippo diarrtus,uppus diartus
+,puteus josep,Puteus Josep,alexandria in egypto c.,Alexandria,gades,Gades,araxis fl.,Araxis,bactria r.,Bactria,dardania,Dardania,damascus,damascus,hunorum g.,huni vel hungari,india,india,hippo diarrtus,uppus diartus
 ,arumphei,Arumphei,sithe,Glath,ebusus i.,Ebosus insula,archad,Archad,margiana,Margiana,tyle,Tylen,boemia,boemia,hungari g. ,huni vel hungari,parisius,parisius,hellespontus,hellespontus
 ,albatia i.,Abatiam,memphis,Memphis,sardinia,Sardinia,arcadia,Archadia,tanais fl.,Fl. Tanais,bizacena,Bizacene,patroticanes,patroticanes,nores g.,nores,jericho,jericho,barcinona,basella
 ,arca noe,Arca Noe,ethiopia,Etheopia,sicilia,Sicilia,archimedon,Archimedon,octogora i.,Octogorra,cinocephales,Cinocephales,fortunate,insule fortunate,sclavi g.,sclavi,asia minor,asia minor,neutoma,neutoma
@@ -76,7 +76,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,hispania,Hisspania,padaum c.,Padaum,samos i.,Samos,arumphei,Arimfei,licia,Licia,arabia,Arabia,islandia,yslandie,histria,istria,jaboc fl.,jaboc,tornacus,tornacum
 ,scythia,Citia,europa,Europa,paros,Paros,ariobaranes m.,Ariobaranes,lixus c.,Lyc',ruben,Ruben,histria,histria,tracia r.,tracia,hispania,hispania,desipea,desipea
 ,sithe,Citha,grecia,Grecia,terasia,Terasia,armenia,Armenia,paflam g.,Paflag,asher,Asser,favonius v.,favonius,macedonia,macedonia,caspie p.,caspie porte,assiria,assiria
-,sarmatica r.,Sarmatica,tracia r.,Tracia,calipso i.,Calipso,armenia inferior,Armenia inferior,pamphilia r.,Pamphilia,alexandria in egyptus c.,Alexandria,mesopotamia,mespotanea,arcadia,archadia,island,island,scotia,scocia
+,sarmatica r.,Sarmatica,tracia r.,Tracia,calipso i.,Calipso,armenia inferior,Armenia inferior,pamphilia r.,Pamphilia,alexandria in egypto c.,Alexandria,mesopotamia,mespotanea,arcadia,archadia,island,island,scotia,scocia
 ,saxonia,Saxonia,boeotia,Boetia,canopus i.,Canopia,armenia superior,Armenia superior,pontica,Pontica,hibernia,Hibernia,germania,germania,hellada,ellada,prochenissa i.,insula prochenissa,austerafricus v.,austeraffricus
 ,grecia,Grecia,achaia,Achaia,rodus,Rodus,arsinoe,Arsinoe,teutonica,Teutuna,histria,Histria,aradia i.,aradia insula,thessalia,tessalia,rapharrica i.,rapharrica insula,hiberia,thiberia
 ,achaia,Adchaia,dardania,Dardania,choos,Choos,artobatitis,Artabaite,troia,Troia,taurus m.,Taurini Montes,hermifrodites,hermifrodites,achaia,achaia,roma,roma,metus,metus
@@ -110,7 +110,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,scotia,Scocia,hibernia,Hybernia,caspie p.,Porte Caspie,aves,Aves fulgore perspicue,india,India,gangines ethiopes,Gangines Ethiopes,tracia r.,thrace,parchoatras m.,parchoatra,templum jovis,templum iovis,colestria,Colcestria
 ,nathabres,Mathabres,scotia,Scotia,bactria c.,Bactriani,azotus,Azotus,egyptus superior,Superior Egyptus,septem montes,VII Montes,riphei m.,montes riphei,borea,borea,galicia,galicia,bizas i.,bises
 ,zeugis r.,Zeugis,norwegia,Norwegia,india,India que finem facit,babilon c.,Babilon,egyptus inferior,Egiptus inferior,nilus,Flumen Nilus,wintland,witland,riphei m.,riphei montes,frisones g.,fresones,scythia,scythia
-,getulia,Getulia,libia,Libia,cathmorum,Cathmorum gens optima,babilonia r.,Babilonia,alexandria in egyptus c.,Alexandria,egyptus inferior,Egiptus Interior,chaldea,caldea,ararat m.,arath,terracona i.,terraconta insula,gallipolis,callipolis
+,getulia,Getulia,libia,Libia,cathmorum,Cathmorum gens optima,babilonia r.,Babilonia,alexandria in egypto c.,Alexandria,egyptus inferior,Egiptus Interior,chaldea,caldea,ararat m.,arath,terracona i.,terraconta insula,gallipolis,callipolis
 ,ethiopia,Ethiopia,cirene,Cirene,enoch,c. Enoch,bactria r.,Bactria,babilon c.,Babilon,cumri?_camri?,Cumri_Camri?,ciophegi,ciophegi,libani m.,libanus,pannonia,pannonia,flaminia,flammin
 ,egyptus,Egyptus,ethiopia ulterior,Ethiopia ulteriore,columpne alexandri,columpne Alexandri,bactria c.,Bactriani,meroe i.,Meroen,neptalim,Neptalim,circius v.,circius,arabia,arabia,paradisus,paradisius,cotonia,cotonia
 ,alexandria r.,Prov. Lexandria,saba,Saba,nisa,c. Nisan,bactrus fl.,Bactrus,garamantes,Provinica Garamantum,nilus immergit,Hic arenis Nilus immergitur,deram,deram,niseus m.,niseus,sina m.,mons sina,cunwey,cunwey
@@ -120,7 +120,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,saltabri,Saltabri,hippo c.,Ippone,nineveh,c. Niniue,baleares i.,Baleares,getulia,Getulia,tanais fl.,Tanae Flumen,parisius,parisius,sina m.,mons syna,africa,affrica,islandia,ysland
 ,pelusium c.,Pelusium,getulia,Getulia,ctesiphon,c. Ectesifon,balearicum m.,Balearicum,occidentalis o.,Oceanus occidentalis,libia ethiopes,Libia Aethiopum,libia libia v.,libia libia,horeb m.,mons hor,galilea inferior,galilea inferior,dardania,dardania
 ,daphnai,Tapnis,tingitania,Tingitanea,archimedon,c. Archimedon,maiorca,Balearis maior,septentrion o.,Oceanus spetentiron,sina m.,Mons Sina,ascalon,ascalon,abarim m.,mons abarim,amanus m.,mons amanus,perusium,perusium
-,alexandria in egyptus c.,Alexandria,tingis,Tingis,edessa,c. Edessa,minorca,Balearis minor,scyticus o.,Occeanus sciticus,libia cirenensis,Libia Cirinaria,lincolina c.,lincolina,idumea,idumea,tanais fl.,fl. tanais,ebredunum,ebredunum
+,alexandria in egypto c.,Alexandria,tingis,Tingis,edessa,c. Edessa,minorca,Balearis minor,scyticus o.,Occeanus sciticus,libia cirenensis,Libia Cirinaria,lincolina c.,lincolina,idumea,idumea,tanais fl.,fl. tanais,ebredunum,ebredunum
 ,memphis,Memphis,mauritania,Mauritania,babilon c.,c. Babilon,bar,Bar,orientalis o.,Occeanus orientalis,hesperia c.,Hisperidum,scotia,scocia,seyr m.,mons seyr,tiberis fl.,fl. Tiberis,leugas,leugas
 ,babilonia r.,Babilonia,cesarea in palestine,Cesarea,adrianopolis,c. Adrianopolis,barcinona,Bacinola,euxinus pontus,Euxinus Pontus,tribus zabulon,Tribus Zabulon,wasconia,vasconia,judea,iudea,troia,troia,bononia francia,bononia
 ,heliopolis,Oliopolim,ethiopia occidentalis,Ethiopia Occidentalis,arca noe,archa Noe,basidim,Basidim,meotides mare,Mare Meotis,riphei m.,Montes Ripam,pharici,farici,hermon m.,mons hermon,tigris fl.,fl. Tigris,bituris c.,biturrica
@@ -128,12 +128,12 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,garema,Garema,atlas m.,Mons Athlas,lauditia c.,c. Lauditia,basilicus,Basiliscus,hiberus i.,Hiberus,danaper fl.,Danaper Flumen,isauria? licia?,provincia ysauriea? Lycia?,gelboe m.,mons gelboe,moesia,moesia,wasconia,gasconia
 ,cartago in africa,Cartago,ethiopia orientalis,Ethiopia Orienatalis,antiochia,Antiochia,batavia,Batavi,hibernia,Hybernia,dara fons,Fons Dara,scythia superiore,sithia superior,thessalia,thessalia,padus fl.,padus,basilea c.,basel
 ,nilus,Nilus,roma,Roma,temiscerii campi,Temiscerii campi,berenice p.,Besime portus,anglia,Anglia,zeugis r.,Zugis regio,franconia,franconia,olympus m.,olympus,corinthus c.,corinthia,roucestria,roucestria
-,meroe i.,Meroe,burdigala,Burdeles,decusa,c. Decusa,belvagus,Belvagus,scotia,Scocia,pentapolis,Pentapolis,mauretania superiore,mauritania superior,pindus m.,pindus,ganges fl.,fl. Ganges,armenia,armenia
+,meroe i.,Meroe,burdigala,Burdeles,decusa,c. Decusa,belvagus,Belvagus,scotia,Scocia,pentapolis,Pentapolis,mauritania superior,mauritania superior,pindus m.,pindus,ganges fl.,fl. Ganges,armenia,armenia
 ,monasterium sancti petri,Monasterium Sancti Petri,londonia,Londonia,cesarea philippi,c. Cesarea Philippi,beneventum,Beneventum,india ultima,India ultima,arca noe,Arca Noe,euroauster v.,euro auster,ossa m.,ossa,judah,iuda,alpes,alpes
-,horrea josep,Orrea Iosep,cantuaria,Cantuaria,nazareth,c. Nazareth,berenice in libya c.,Berenice,phenix,Phenix,fasga m.,Mons Fasga,meotides paludes,meotides palus,focida,focida,elamite,elamite,rithymna,in rima
-,berenice in libya c.,Beronice,dublina,Dublina,capernaum,c. Capharnaum,beroe,Beroe,africa,Affrica,gaulolum g.,Gentes Gaulolum,transitus hebreorum,transistus ebreorum,parnassus m.,parnassus,alemannia,alemannia,corinthus c.,corinthus
+,horrea josep,Orrea Iosep,cantuaria,Cantuaria,nazareth,c. Nazareth,berenice in libia c.,Berenice,phenix,Phenix,fasga m.,Mons Fasga,meotides paludes,meotides palus,focida,focida,elamite,elamite,rithymna,in rima
+,berenice in libia c.,Beronice,dublina,Dublina,capernaum,c. Capharnaum,beroe,Beroe,africa,Affrica,gaulolum g.,Gentes Gaulolum,transitus hebreorum,transistus ebreorum,parnassus m.,parnassus,alemannia,alemannia,corinthus c.,corinthus
 ,terra arenes et sterilis,Terra arenes et sterilis,armachus,Armachus,nicomedia,c. Nichomedia,bethania,Bethania,zeugis r.,Zeugetana,tribus dan,Tribus Dan,arabia,arabia,citherus m.,citherus,arnon c.,arnon,anglia,anglia
-,are philenorum,Are Philonorum,sancti andree,Sancti Andree,tyrus,c. Tyrus,bethel,Bethel,bizantium,Bysancea,tarsus,Tharso Ciliciae,psambari,prosumbari,helicon m.,elicomus,arnon fl.,arnon,phison,phison
+,are philenorum,Are Philonorum,sancti andree c.,Sancti Andree,tyrus,c. Tyrus,bethel,Bethel,bizantium,Bysancea,tarsus,Tharso Ciliciae,psambari,prosumbari,helicon m.,elicomus,arnon fl.,arnon,phison,phison
 ,columpne herculis,Columpne Herculis,,,ioppe,c. Ioppe,bethlehem,Bethleem,numidia,Numidia,neptalim,Neptalim,euxinum mare,mare eusinum,euboea,euboea,asher,aser,rodus,rodos
 ,transitus hebreorum,[Transitus Israelis],,,jerusalem,c. Ierusalem,bethoron,Bethoron,mauritania cesariensis,Mauritania cesariensis,salinarus lacus,Lacus Salinaruus,nothus v.,nothus,parchenius m.,parchenius,anthropophagi,anthropophagi,anthropophagi,anthropophagi
 ,pirenei m.,Mons Pireneus,,,bethlehem,c. Bethleem,bethsaida,Bethsaida,mauritania tingitana,Mauritania tingitana,super ardens m.,Mons Super Ardens,eliothes v.,eliothes,grecia,grecia,dan fons,fons dan,pharsalus?,parchadus
@@ -240,7 +240,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,,,,,,,cyclades,Cyclades,,,,,andegavia r.,andegavia,alexandria in scythia c.,alexandria,,,carnarvan,Carnaruan
 ,,,,,,,cidnus fl.,Cignus,,,,,baleares i.,insule baliaris,scythiopolis,scitopolis,,,moabite,moabite
 ,,,,,,,cilicia,Cilicia,,,,,sine naribus,gentes sine naribus,safris,vicus saphiri,,,vivaria i.,Viuaria
-,,,,,,,cilicus s.,Cilicus sinus,,,,,alexandria in egyptus c.,alexandria,antiochia,antiochia,,,neapolis,neapolis
+,,,,,,,cilicus s.,Cilicus sinus,,,,,alexandria in egypto c.,alexandria,antiochia,antiochia,,,neapolis,neapolis
 ,,,,,,,cimera m.,Cimera,,,,,bavaria,bavaria,damascus,damascus,,,palestina,Palestinam
 ,,,,,,,cimericum mare,Cimericum,,,,,arca noe,archa noe,seleucia in siria,seleucia,,,perona,perona
 ,,,,,,,cinopodes,Cinopodes,,,,,philenorum are,are philanorum,tyrus,tyrus,,,nola,nola
@@ -249,7 +249,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,,,,,,,citherea i.,Citherea,,,,,ethiopia calidissima,ethiopia calidissima,nicomedia,nichomedia,,,celdara,celdara
 ,,,,,,,clarus m.,Clarus mons,,,,,creta,creta,nicaea,nicea,,,lempnos i.,lempnos
 ,,,,,,,claudiopolis,Claudiopolis,,,,,colonia,colonia,calcedonia c.,calcedonia,,,maculea,Maculea
-,,,,,,,climax m.,Climax,,,,,homines canescunt in iuventute et nigrescunt in senectute,homines canescunt in iuventute,sardis,sardis,,,ravenna,ravenna
+,,,,,,,climax m.,Climax,,,,,canescunt in iuventute et nigrescunt in senectute g.,homines canescunt in iuventute,sardis,sardis,,,ravenna,ravenna
 ,,,,,,,clipea,Clipea,,,,,hispania,hispania,ilium,ilium,,,gesortia,Gesortia
 ,,,,,,,coaspis,Coaspis,,,,,brundisium,brundiston,ephesus,ephesus,,,magontia,magoncia
 ,,,,,,,cocadrillus,Cocodrilli,,,,,termineus s.,sinus termineus,pergamus,pergamus,,,amphipolis,amfipolis
@@ -271,7 +271,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,,,,,,,crise,Crise,,,,,tigris fl.,[tigris fl.],hebron,ebron,,,cinocephales,Cinocephales
 ,,,,,,,cristoas,Crisortoas,,,,,paradisus,[paradisus],constantinopolis,constantinopolis,,,ramesses,ramesse
 ,,,,,,,cucim c.,Cucim oppidum,,,,,euphrates fl.,[euphrates fl.],panisus,panisus,,,remis,remis
-,,,,,,,cyprium mare,Cyprium,,,,,,,nicopolis,nichopolis,,,louthian,Louthian
+,,,,,,,cyprium mare,Cyprium,,,,,roma,roma petri,nicopolis,nichopolis,,,louthian,Louthian
 ,,,,,,,cyprus,Cyprus,,,,,,,cesarea philippi,philippis,,,andegavis c.,Andegauis
 ,,,,,,,cirene,Cyrene,,,,,,,sestos c.,sestos,,,mirrea,Mirrea
 ,,,,,,,dacia,Daci,,,,,,,attica,attica,,,eurus v.,eurus
@@ -280,17 +280,17 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,,,,,,,damascus,Damascus,,,,,,,larissa,larissa,,,gandersum,Camder
 ,,,,,,,dan fl.,Dan ,,,,,,,corinthus c.,corinthus,,,epirus,Ipirum
 ,,,,,,,danaper fl.,Danapes,,,,,,,thebe in boeotia,thebe,,,wintonia,Wintonia
-,,,,,,,danubius fl.,Danubius,,,,,,,tafnis,tafnes,,,petavium,Petauium
+,,,,,,,danubius fl.,Danubius,,,,,,,tafnis c.,tafnes,,,petavium,Petauium
 ,,,,,,,dara fl.,Dara,,,,,,,memphis,menphis,,,letheus fl. ,lethon
 ,,,,,,,decusa,Decusa,,,,,,,heliopolis,eliopolis,,,planasia i.,Planasia
 ,,,,,,,delos i.,Delos,,,,,,,pelusium c.,pelusium,,,siracusa,Siracusa
 ,,,,,,,delphi,Delphi,,,,,,,alexandria bucefola,alexandria bucefola,,,saldis c.,Saldis
 ,,,,,,,delsephon,Delsephon,,,,,,,alexandria montuosa,alexandria montuosa,,,safris,nucudsafris
 ,,,,,,,derbant,Derbant,,,,,,,alexandria apud porum,alexandria apud porum,,,adiabeni,Adiabeni
-,,,,,,,didime i.,Didime,,,,,,,alexandria in scythia,alexandria in scithia,,,rothomagum,Rotomagum
-,,,,,,,dioscorus,Dioscorus,,,,,,,alexandria apud babilonia,alexandria apud babilonem,,,euboea,euboea
-,,,,,,,dirracium,Dirracium,,,,,,,alexandria in egyptus c.,alexandria in egipto,,,magdeburgis,Magaddesburg
-,,,,,,,domin,Domin,,,,,,,alexandria apud massagete,alexandria apud massagetas,,,pelusium c.,Pelasium
+,,,,,,,didime i.,Didime,,,,,,,alexandria in scythia c.,alexandria in scithia,,,rothomagum,Rotomagum
+,,,,,,,dioscorus,Dioscorus,,,,,,,alexandria apud babilonem,alexandria apud babilonem,,,euboea,euboea
+,,,,,,,dirracium,Dirracium,,,,,,,alexandria in egypto c.,alexandria in egipto,,,magdeburgis,Magaddesburg
+,,,,,,,domin,Domin,,,,,,,alexandria apud massagetas,alexandria apud massagetas,,,pelusium c.,Pelasium
 ,,,,,,,donimus,Donimus,,,,,,,alexandria apud orgalas,alexandria apud orgalas,,,calabria r.,Recum
 ,,,,,,,dordonia,Dordonia,,,,,,,alexandria apud granicum,alexandria apud granicum,,,isauria,Ysauria
 ,,,,,,,dorstedas,Dorstedas,,,,,,,alexandria apud troadem,alexandria apud troadem,,,vercellis,Vercellis
@@ -299,7 +299,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,,,,,,,durentia,Durentia,,,,,,,libia cirenensis,libie cyrenensis,,,ruzazus,Brusutus
 ,,,,,,,durius,Durius,,,,,,,cirene,cyrene,,,nimpolis,Nimpolis
 ,,,,,,,eborica,Ebroas,,,,,,,parthenium,parthenium,,,holandia,Holandia
-,,,,,,,ebos fl.,Ebrus ,,,,,,,berenice in libya c.,beronice,,,salerna,Salerna
+,,,,,,,ebos fl.,Ebrus ,,,,,,,berenice in libia c.,beronice,,,salerna,Salerna
 ,,,,,,,ebusus i.,Ebusus,,,,,,,apollonia c.,apollonia,,,marinia i.,Marinia
 ,,,,,,,echbatanis,Echbatanis,,,,,,,ptolomais,ptolomais,,,ptolomais,Tholomaida
 ,,,,,,,ctesiphon,Ectesifon,,,,,,,hadrumetum,adrumetum,,,beneventum,Beneuentus
@@ -369,7 +369,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,,,,,,,forum julii,Forum Iulii,,,,,,,,,,,velabri g.,Welabri
 ,,,,,,,franci g.,Franci,,,,,,,,,,,numidia,Numidia
 ,,,,,,,francia,Francia,,,,,,,,,,,igicolis,Ygicolis
-,,,,,,,frigia,Frigia,,,,,,,,,,,laude ,Laude 
+,,,,,,,frigia,Frigia,,,,,,,,,,,laude,Laude
 ,,,,,,,frigia maior,Frigia maior,,,,,,,,,,,phanagoria,Penagorgea
 ,,,,,,,frigia minor,Frigia minor,,,,,,,,,,,media r.,Medea
 ,,,,,,,frisia,Frisia,,,,,,,,,,,tuscia,Tuscia
@@ -388,7 +388,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,,,,,,,gallia celtica,Gallia Celtica,,,,,,,,,,,champania,Campania
 ,,,,,,,gallia cisalpina,Gallia Cisalpina,,,,,,,,,,,grifes,griphes
 ,,,,,,,gallia narbonensis,Gallia Narbonensis,,,,,,,,,,,parthia r.,parthia
-,,,,,,,gallia translapina,Gallia Transalpina,,,,,,,,,,,andrianopolis,Peliopolis
+,,,,,,,gallia transalpina,Gallia Transalpina,,,,,,,,,,,andrianopolis,Peliopolis
 ,,,,,,,galicia,Galicia,,,,,,,,,,,palencia,Palencia
 ,,,,,,,gallicum mare,Gallicum,,,,,,,,,,,colubraria i.,Colubraria
 ,,,,,,,galloreci,Gallocreci,,,,,,,,,,,sile c.,Sile
@@ -442,7 +442,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,,,,,,,hispanicum mare,Hispanicum,,,,,,,,,,,wie fl.,Wie
 ,,,,,,,psambari,Auribus carentes,,,,,,,,,,,salamis i.,Salami
 ,,,,,,,bicipites,Bicipites,,,,,,,,,,,murduacia,Murduacia
-,,,,,,,linguis carentes,Linguis carentes,,,,,,,,,,,piscinus,Piscinus
+,,,,,,,carent linguis g.,Linguis carentes,,,,,,,,,,,piscinus,Piscinus
 ,,,,,,,sine naribus ,Naribus carentes,,,,,,,,,,,gloucester,Glearum
 ,,,,,,,quatuor oculos,Quatuor oculos habentes,,,,,,,,,,,parnassus m.,Parnasus
 ,,,,,,,labro prominente g.,Qui labro subteriori faciem tegunt,,,,,,,,,,,caribdis,Caribdis
@@ -495,11 +495,11 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,,,,,,,lacedemonia r.,Lacedemonia,,,,,,,,,,,ostrochena,Ostrochena
 ,,,,,,,langlaria,Langlaria,,,,,,,,,,,albana fl.,Albana Fluuius
 ,,,,,,,laodicia,Laodicia,,,,,,,,,,,salinarus lacus,Lacus Salinarum
-,,,,,,,lanius,Lanius,,,,,,,,,,,alexandria in egyptus c.,Alexandria
+,,,,,,,lanius,Lanius,,,,,,,,,,,alexandria in egypto c.,Alexandria
 ,,,,,,,larissa,larissa,,,,,,,,,,,bersabee,Bersabee
 ,,,,,,,lates fl.,Lasec,,,,,,,,,,,cyprus in mare rubrum,Ciprus
 ,,,,,,,laudunus,laudunus,,,,,,,,,,,apollonia promontorium,Promunctorium Appollonis
-,,,,,,,leapitinia,Leapitina,,,,,,,,,,,suevus m.,Mons Sueuus
+,,,,,,,leapitina,Leapitina,,,,,,,,,,,suevus m.,Mons Sueuus
 ,,,,,,,lebraha,Lebraha,,,,,,,,,,,frigia minor,Frigia Inferior
 ,,,,,,,lecenna,Lecenna,,,,,,,,,,,are alexandri,Aree Alexandri
 ,,,,,,,lemannus fl.,Lemannus,,,,,,,,,,,axona fl.,Fluuius Auxonta
@@ -595,7 +595,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,,,,,,,mevania,Mevania,,,,,,,,,,,torrens jaboth,Torrens Iaboth
 ,,,,,,,miletus,Miletus,,,,,,,,,,,arecusa lacus,Arecusa Lacus
 ,,,,,,,mineus fl.,Mineus,,,,,,,,,,,aligardamana promuntorium,Promunctorium Aligardamana
-,,,,,,,mirteum mare,Mirteum,,,,,,,,,,,bucefala ,Bucefala 
+,,,,,,,mirteum mare,Mirteum,,,,,,,,,,,bucefala,Bucefala
 ,,,,,,,mogona,Mogona,,,,,,,,,,,gaza,Gaza Ciuitas 
 ,,,,,,,monasteria monachorum egyptiorum,Monasteria Monachorum Egyptiorum,,,,,,,,,,,corvus fl.,Coruus Fluuius
 ,,,,,,,monopodes,Monopodes,,,,,,,,,,,bethlehem,Bethleem Ciuitas
@@ -679,7 +679,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,,,,,,,parthia r.,Parthia,,,,,,,,,,,isachar,Zabulon et Ysacar
 ,,,,,,,parthia in parthia c.,Parthia,,,,,,,,,,,carpatos i.,Carpatas Insula
 ,,,,,,,pathmos,Pathmos,,,,,,,,,,,eufrates fl.,Eufrates Fluuius
-,,,,,,,patras,Patras,,,,,,,,,,,sancti andree,Sanctus Andreas
+,,,,,,,patras,Patras,,,,,,,,,,,sancti andree c.,Sanctus Andreas
 ,,,,,,,pelorum m.,Pelorum,,,,,,,,,,,cidera fl.,Fluuius Cidera
 ,,,,,,,pelusium c.,Pelusium,,,,,,,,,,,crise,Crise Insula
 ,,,,,,,pelusium fl.,Pelusium,,,,,,,,,,,lunacus fl.,Fluuius Lunacus
@@ -689,7 +689,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,,,,,,,persia,Persia,,,,,,,,,,,ascalon,Ascalon Ciuitas
 ,,,,,,,persepolis,Persipolis,,,,,,,,,,,herremus scetis,Herremus Sithe Palme
 ,,,,,,,persicus s.,Perticus,,,,,,,,,,,cardia c.,Cardia Ciuitas
-,,,,,,,perusium,Perusina,,,,,,,,,,,sancti johanni,Ciuitas Sancti Iohannis
+,,,,,,,perusium,Perusina,,,,,,,,,,,sancti johanni c.,Ciuitas Sancti Iohannis
 ,,,,,,,pestum,Pestum,,,,,,,,,,,fistula fl.,Fluuius Fistula
 ,,,,,,,petra,Petragora,,,,,,,,,,,calvarie m.,Mons Caluarie
 ,,,,,,,phatures,Phatures,,,,,,,,,,,effraim m.,Mons Effraim
@@ -728,7 +728,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,,,,,,,renus fl.,Rhenus,,,,,,,,,,,clarus m.,Clarus Mons
 ,,,,,,,rodus,Rhodus,,,,,,,,,,,craphis regnum,rengnum craphis
 ,,,,,,,rodanus fl.,Rhodanus,,,,,,,,,,,laureum p.,Laureum Portus
-,,,,,,,riphei m.,Riphei,,,,,,,,,,,zimarim portus,Zimarim Portus
+,,,,,,,riphei m.,Riphei,,,,,,,,,,,zimarim p.,Zimarim Portus
 ,,,,,,,robasci,Robasci,,,,,,,,,,,diomedis i.,Insula Diomedis
 ,,,,,,,roma,Roma,,,,,,,,,,,cidnus fl.,Fluuius Cidnus
 ,,,,,,,rothomagum,rothomagus,,,,,,,,,,,samara m.,Promunctorium Samara
@@ -747,7 +747,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,,,,,,,sala c.,Sala,,,,,,,,,,,paradisus,Paradisi Porte
 ,,,,,,,sala fl.,Sala,,,,,,,,,,,memphis,Memphis Ciuitas 
 ,,,,,,,salamina,Salamina,,,,,,,,,,,avium i.,Insula Auium
-,,,,,,,saldis c.,Saldis,,,,,,,,,,,sancti davi,Sanctus Daui
+,,,,,,,saldis c.,Saldis,,,,,,,,,,,sancti davi c.,Sanctus Daui
 ,,,,,,,sale c.,Sale,,,,,,,,,,,corcina g.,Gens Corcina
 ,,,,,,,salerna,Salerna,,,,,,,,,,,adanum i.,Adanum Insula
 ,,,,,,,saline,Saline,,,,,,,,,,,sabaria sancti martini,Sabaria Sancti Martini
@@ -783,7 +783,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,,,,,,,scotia,Scoti,,,,,,,,,,,termineus s.,Termineus Sinus
 ,,,,,,,scupis,Scupis,,,,,,,,,,,sarta fl.,Fluuius Sarta
 ,,,,,,,sebastea in palestina,Sebastea,,,,,,,,,,,marna fl.,Fluuius Marna
-,,,,,,,sebastia in egyptus,Sebastia,,,,,,,,,,,narbonensis r.,Narbona
+,,,,,,,sebastia in egypto,Sebastia,,,,,,,,,,,narbonensis r.,Narbona
 ,,,,,,,sebastia pentapolis,Sebastia,,,,,,,,,,,aquitanicus s.,Aquitanicus Sinus
 ,,,,,,,seyr m.,Seir,,,,,,,,,,,pudpud c.,Pudpud Ciuitas
 ,,,,,,,seleucia in siria,Seleucia,,,,,,,,,,,laudunus,Mons Laudanus
@@ -791,7 +791,7 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,,,,,,,senogallia,Senogallia,,,,,,,,,,,octogora c.,Octoricirus Ciuitas
 ,,,,,,,senonis,Senonenses,,,,,,,,,,,russicada c.,Russicada Ciuitas
 ,,,,,,,septem oppidum,Septem oppidum,,,,,,,,,,,fialus fons nili,Fialus fons Nili
-,,,,,,,septentrion o.,Septentrionalis,,,,,,,,,,,berenice in libya c.,Berenice Ciuitas
+,,,,,,,septentrion o.,Septentrionalis,,,,,,,,,,,berenice in libia c.,Berenice Ciuitas
 ,,,,,,,sequana fl.,Sequana,,,,,,,,,,,tarus fl.,Fluuius Tarus
 ,,,,,,,sequani,Sequani,,,,,,,,,,,curunbi c.,Curunbi Ciuitas
 ,,,,,,,seres c.,Seres,,,,,,,,,,,gangines ethiopes,Gangines Ethiope
@@ -850,11 +850,11 @@ Places,albania inferior,Albania Inferior,india,India,subsolanus v.,subsolanus,ab
 ,,,,,,,theode,Teode,,,,,,,,,,,germanicus s.,Sinus Germanicus
 ,,,,,,,terracona i.,Terracona,,,,,,,,,,,sodom c.,Sodom Ciuitas
 ,,,,,,,tabor m.,Thabor,,,,,,,,,,,rem fl.,Fluuius Rem
-,,,,,,,tafnis,Thafnis,,,,,,,,,,,emisa fl.,Fluuius Emisa
+,,,,,,,tafnis c.,Thafnis,,,,,,,,,,,emisa fl.,Fluuius Emisa
 ,,,,,,,tanais fl.,Thanais,,,,,,,,,,,aque tibilitane,Aque Tibilitane
 ,,,,,,,thanatos,Thanatos,,,,,,,,,,,scitotauri sithe,Scitotauri Sithe
 ,,,,,,,tarsus,Tharsus,,,,,,,,,,,tabule testamenti,Tabule Testamenti
-,,,,,,,thebe in egyptus,Thebe,,,,,,,,,,,fernus fl.,Fluuius Fernus
+,,,,,,,thebe in egypto,Thebe,,,,,,,,,,,fernus fl.,Fluuius Fernus
 ,,,,,,,thebe in boeotia,Thebe,,,,,,,,,,,jovis oraculum,Oraculum Iovis
 ,,,,,,,theodosia,Theodosia,,,,,,,,,,,mester fl.,Fluuius Mester
 ,,,,,,,theodosipolis,Theodosipolis,,,,,,,,,,,sochoth,Sochoth Ciuitas
