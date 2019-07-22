@@ -59,8 +59,8 @@ dataset_tidy <- dataset %>%
   magrittr::set_colnames(dataset %>% names() %>% tolower()) %>% 
   data.table::setDT() %>% data.table::melt(
     measure.vars = patterns(
-      '.*_normalized_reading.*',
-      '.*diplomatic_reading.*'
+      '.*\\snormalized',
+      '.*\\sdiplomatic'
     ),
     variable.name = 'map_name',
     value.name = c('normalized', 'diplomatic'),
